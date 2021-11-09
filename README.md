@@ -8,7 +8,7 @@ By [NASA Jet Propulsion Laboratory](https://www.youtube.com/user/JPLnews)
 
 第一集于 2021 年 10 月 15 日播放，第二集于 10 月 23 日播出。
 
-卡西尼-惠更斯号（Cassini–Huygens）是前往土星系统的一架旗舰级空间探测器，也是由美国宇航局（NASA）、欧洲空间局（ESA）和意大利航天局（ASI）合作进行的任务[7]。整个任务分为两部分：环绕土星的卡西尼号（Cassini）与在土星最大卫星土卫六登陆的惠更斯号（Huygens）。两具探测器由泰坦四号B型运载火箭搭载，于1997年10月15日一同发射升空，并于2004年7月初抵达土星轨道，随后在同年12月25日分离。卡西尼号自入轨后持续运作超过13年，直到2017年9月15日进入土星大气层焚毁；惠更斯号则于2005年1月14日成功于土卫六的阿迪立地区着陆并传回数据，是首具在外太阳系天体完成登陆的探测器。[——来自 Wiki](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E5%B0%BC-%E6%83%A0%E6%9B%B4%E6%96%AF%E5%8F%B7)
+卡西尼-惠更斯号（Cassini–Huygens）是前往土星系统的一架旗舰级空间探测器，也是由美国宇航局（NASA）、欧洲空间局（ESA）和意大利航天局（ASI）合作进行的任务。整个任务分为两部分：环绕土星的卡西尼号（Cassini）与在土星最大卫星土卫六登陆的惠更斯号（Huygens）。两具探测器由泰坦四号B型运载火箭搭载，于1997年10月15日一同发射升空，并于2004年7月初抵达土星轨道，随后在同年12月25日分离。卡西尼号自入轨后持续运作超过13年，直到2017年9月15日进入土星大气层焚毁；惠更斯号则于2005年1月14日成功于土卫六的阿迪立地区着陆并传回数据，是首具在外太阳系天体完成登陆的探测器。[——来自 Wiki](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E5%B0%BC-%E6%83%A0%E6%9B%B4%E6%96%AF%E5%8F%B7)
 
 终章落幕，探索不息。向卡西尼-惠更斯号致敬。
 
@@ -28,13 +28,20 @@ By [NASA Jet Propulsion Laboratory](https://www.youtube.com/user/JPLnews)
 
 ## Part I
 
-[Youtube](https://www.youtube.com/watch?v=SY-hQJ5pMd4)
+- [Youtube](https://www.youtube.com/watch?v=SY-hQJ5pMd4)
+
+- [双语字幕（CHN-ENG Subtitles）](https://github.com/ClausewitzCPU0/Triumph-at-Saturn/blob/main/subtitles/%5Ben-zh%5D%20Triumph%20at%20Saturn%20(Part%20I).ass)
+
+- [中文字幕（CHN Subtitles）](https://github.com/ClausewitzCPU0/Triumph-at-Saturn/blob/main/subtitles/%5Bzh%5D%20Triumph%20at%20Saturn%20(Part%20I).ass)
+
+- [原版英文字幕（ENG Subtitles）](https://github.com/ClausewitzCPU0/Triumph-at-Saturn/blob/main/subtitles/%5Ben%5DTriumph%20at%20Saturn%20(Part%20I).srt)
 
 ## Part II
 
-[Youtube](https://www.youtube.com/watch?v=oGsajLIALJE)
+- [Youtube](https://www.youtube.com/watch?v=oGsajLIALJE)
 
 - TODO
+- [原版英文字幕（ENG Subtitles）](https://github.com/ClausewitzCPU0/Triumph-at-Saturn/blob/main/subtitles/%5Ben%5DTriumph%20at%20Saturn%20(Part%20II).srt)
 
 ## References
 
