@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.750000
-Scroll Position: 3
-Active Line: 16
-Video Position: 1968
+Scroll Position: 174
+Active Line: 178
+Video Position: 17369
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,7 +200,7 @@ Dialogue: 0,0:09:28.03,0:09:30.26,new,,0,0,0,,{\blur4}在我看来，这样做�
 Dialogue: 0,0:09:30.30,0:09:33.07,new,,0,0,0,,{\blur4}我的意思是，这项任务的实质是传回探测数据\N{\fs13}I mean, the essence of this mission is to get data back.
 Dialogue: 0,0:09:34.50,0:09:36.40,new,,0,0,0,,{\blur4}科学家的诉求\N{\fs13}- [Narrator] The friction between what scientists want
 Dialogue: 0,0:09:36.44,0:09:39.51,new,,0,0,0,,{\blur4}与实际工程实现之间的争执\N{\fs13}and what engineers can do will be a theme
-Dialogue: 0,0:09:39.54,0:09:41.98,new,,0,0,0,,{\blur4}在整个任务周期中都将一直持续\N{\fs13}running throughout the lifetime of the mission.
+Dialogue: 0,0:09:39.54,0:09:41.98,new,,0,0,0,,{\blur4}将贯穿整个任务周期\N{\fs13}running throughout the lifetime of the mission.
 Dialogue: 0,0:09:43.11,0:09:45.71,new,,0,0,0,,{\blur4}接下来，我们将决定卡西尼号上\N{\fs13}So, we'll be deciding which of Cassini's
 Dialogue: 0,0:09:45.75,0:09:49.22,new,,0,0,0,,{\blur4}12种科学仪器\N{\fs13}12 different science instruments will have priority
 Dialogue: 0,0:09:49.25,0:09:50.85,new,,0,0,0,,{\blur4}的使用时间优先级\N{\fs13}at any given time.
