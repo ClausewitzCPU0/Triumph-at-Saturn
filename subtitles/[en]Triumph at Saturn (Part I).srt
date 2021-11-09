@@ -1,0 +1,4690 @@
+1
+00:00:09,275 --> 00:00:12,512
+- [Narrator] Ask someone to
+draw a picture of a planet,
+
+2
+00:00:12,545 --> 00:00:14,681
+and odds are it
+will be this one.
+
+3
+00:00:16,783 --> 00:00:19,551
+It is the sixth planet
+out from the sun
+
+4
+00:00:19,585 --> 00:00:22,222
+and the second-largest
+in our solar system.
+
+5
+00:00:23,590 --> 00:00:26,225
+It is, of course, Saturn,
+
+6
+00:00:26,258 --> 00:00:29,829
+a world encircled not
+only in majestic rings
+
+7
+00:00:29,862 --> 00:00:32,364
+but in an array of moons
+that have been likened
+
+8
+00:00:32,398 --> 00:00:34,567
+to a solar system in miniature.
+
+9
+00:00:37,837 --> 00:00:41,341
+(rocket boosters roaring)
+
+10
+00:00:43,242 --> 00:00:47,112
+In 1997, an international
+mission was launched to Saturn
+
+11
+00:00:47,146 --> 00:00:49,715
+that would, for the first time,
+
+12
+00:00:49,748 --> 00:00:53,586
+attempt to place an orbiting
+spacecraft around the planet
+
+13
+00:00:53,620 --> 00:00:57,924
+and land a probe on a moon
+in the outer solar system.
+
+14
+00:00:59,992 --> 00:01:02,161
+But this was a
+mission that had to
+
+15
+00:01:02,195 --> 00:01:04,164
+fight its way to the launch pad.
+
+16
+00:01:05,665 --> 00:01:06,899
+- [Lew] We're going
+to have to operate
+
+17
+00:01:06,932 --> 00:01:08,567
+under a very strict
+fund ceiling,
+
+18
+00:01:08,601 --> 00:01:11,270
+one that is imposed by Congress.
+
+19
+00:01:11,304 --> 00:01:13,973
+- [Casini] This will
+require doing business
+
+20
+00:01:14,006 --> 00:01:17,510
+in a drastically different
+way than we've done before.
+
+21
+00:01:17,543 --> 00:01:21,381
+- [Bob] It took a lotta
+time, a lotta negotiating,
+
+22
+00:01:21,414 --> 00:01:24,284
+a lot of compromises
+to make that work.
+
+23
+00:01:24,317 --> 00:01:27,186
+- [Julie] The first time I
+saw the spacecraft together
+
+24
+00:01:27,220 --> 00:01:29,722
+when we stacked without
+the blankets, we were just,
+
+25
+00:01:29,756 --> 00:01:32,358
+we were without words
+standing out there.
+
+26
+00:01:32,391 --> 00:01:34,160
+- [Narrator] The
+journey to Saturn
+
+27
+00:01:34,193 --> 00:01:36,529
+would take seven long years,
+
+28
+00:01:36,562 --> 00:01:41,067
+but the success, or failure,
+of being captured into orbit
+
+29
+00:01:41,100 --> 00:01:45,839
+depended on what would happen
+during just three hours.
+
+30
+00:01:47,139 --> 00:01:49,075
+- [Charles] The
+engine better fire,
+
+31
+00:01:49,108 --> 00:01:51,644
+otherwise we'll
+end with a flyby.
+
+32
+00:01:51,677 --> 00:01:52,478
+- Copy.
+
+33
+00:01:52,511 --> 00:01:53,913
+DCS Fault Protection.
+
+34
+00:01:53,946 --> 00:01:55,982
+- [Linda] I think
+as a ring scientist,
+
+35
+00:01:56,015 --> 00:01:58,251
+my greatest concern
+was really crossing
+
+36
+00:01:58,284 --> 00:02:00,520
+through that gap in
+the F and G rings.
+
+37
+00:02:00,553 --> 00:02:04,356
+It would only have taken
+one marble sized particle
+
+38
+00:02:04,390 --> 00:02:06,792
+in the wrong place
+in the spacecraft
+
+39
+00:02:06,825 --> 00:02:09,329
+to perhaps have
+ended the mission.
+
+40
+00:02:09,362 --> 00:02:11,964
+- [Man] So I would lie in
+bed at night and think about
+
+41
+00:02:11,998 --> 00:02:14,166
+what other tests should we do?
+
+42
+00:02:14,199 --> 00:02:16,735
+What other question
+should I be asking?
+
+43
+00:02:16,769 --> 00:02:19,706
+What should we be poking out
+here that we haven't done yet?
+
+44
+00:02:21,007 --> 00:02:23,376
+- [Julie] We chased
+everything that could go wrong
+
+45
+00:02:23,409 --> 00:02:24,677
+down the rabbit hole.
+
+46
+00:02:24,710 --> 00:02:26,946
+We went down every path
+of, if this goes wrong,
+
+47
+00:02:26,979 --> 00:02:28,147
+what do we do?
+
+48
+00:02:28,180 --> 00:02:29,782
+If that goes wrong,
+what do we do?
+
+49
+00:02:29,816 --> 00:02:31,350
+- [Earl] And this was
+one of those moments
+
+50
+00:02:31,383 --> 00:02:33,386
+where you're either in orbit
+
+51
+00:02:33,419 --> 00:02:35,488
+or you're a billion
+dollar flyby.
+
+52
+00:02:35,521 --> 00:02:37,590
+- [Todd] Closest approach
+is just a little over
+
+53
+00:02:37,624 --> 00:02:39,025
+two minutes away.
+
+54
+00:02:39,058 --> 00:02:42,661
+Predicted temps today,
+-226 degrees Fahrenheit,
+
+55
+00:02:42,695 --> 00:02:44,964
+winds of 1100 miles per hour.
+
+56
+00:02:44,997 --> 00:02:47,733
+Hurricanes the
+size of the Earth.
+
+57
+00:02:47,766 --> 00:02:50,203
+Cassini would do well to
+batten down the hatches.
+
+58
+00:03:14,626 --> 00:03:16,662
+- [Narrator] Saturn
+was once but a single
+
+59
+00:03:16,695 --> 00:03:19,132
+bright point of light
+in the night sky,
+
+60
+00:03:20,667 --> 00:03:24,170
+but in 1610 Galileo peered
+through his telescope
+
+61
+00:03:24,203 --> 00:03:26,105
+and saw something else.
+
+62
+00:03:27,739 --> 00:03:29,408
+On either side of the planet,
+
+63
+00:03:29,442 --> 00:03:31,611
+he thought there might be moons.
+
+64
+00:03:34,814 --> 00:03:37,850
+Two years later,
+Galileo looked again.
+
+65
+00:03:39,718 --> 00:03:43,356
+To his astonishment, the
+two objects had disappeared.
+
+66
+00:03:46,559 --> 00:03:49,828
+Another two years
+passed and Galileo again
+
+67
+00:03:49,862 --> 00:03:51,898
+trained his telescope on Saturn.
+
+68
+00:03:54,000 --> 00:03:56,636
+The puzzling bulges
+had returned.
+
+69
+00:03:58,737 --> 00:04:01,741
+This drawing shows
+how close Galileo came
+
+70
+00:04:01,774 --> 00:04:02,942
+to solving the riddle,
+
+71
+00:04:04,543 --> 00:04:08,581
+but he went to his grave
+without ever knowing the answer.
+
+72
+00:04:10,683 --> 00:04:13,786
+A half century would pass
+before the Dutch scientist
+
+73
+00:04:13,819 --> 00:04:17,824
+Christiaan Huygens realized
+the bulges were rings.
+
+74
+00:04:19,692 --> 00:04:23,162
+As for their appearing
+and disappearing,
+
+75
+00:04:23,195 --> 00:04:26,599
+Huygens realized that was
+caused by Saturn's tilting.
+
+76
+00:04:28,000 --> 00:04:32,605
+Like Earth, Saturn gently rocks
+back and forth on its axis.
+
+77
+00:04:34,907 --> 00:04:38,844
+And when the rings are
+viewed from Earth at dawn,
+
+78
+00:04:38,877 --> 00:04:40,480
+they all but disappear.
+
+79
+00:04:42,981 --> 00:04:47,153
+As time passed, Saturn
+came into closer focus,
+
+80
+00:04:49,421 --> 00:04:53,225
+and in 1979, NASA's
+Pioneer 11 spacecraft
+
+81
+00:04:53,259 --> 00:04:55,928
+gave the world the
+first closeup look
+
+82
+00:04:55,961 --> 00:04:58,631
+at the planet and its rings.
+
+83
+00:05:01,067 --> 00:05:05,137
+- We received several
+pictures yesterday afternoon
+
+84
+00:05:05,170 --> 00:05:09,141
+and evening, and we'd like to
+run through some of those now.
+
+85
+00:05:09,174 --> 00:05:11,543
+This is the one
+that came in here
+
+86
+00:05:11,577 --> 00:05:14,046
+at about three o'clock
+yesterday afternoon.
+
+87
+00:05:14,079 --> 00:05:17,183
+This is by far the most
+spectacular picture
+
+88
+00:05:17,216 --> 00:05:18,451
+that we have so far.
+
+89
+00:05:19,718 --> 00:05:21,220
+This is raw data.
+
+90
+00:05:21,253 --> 00:05:23,356
+It has not been
+processed in any way.
+
+91
+00:05:24,757 --> 00:05:28,094
+We can see the big banded
+planet and, of course,
+
+92
+00:05:28,127 --> 00:05:31,196
+the ring system is very
+prominent in this picture.
+
+93
+00:05:31,230 --> 00:05:35,400
+Also prominent is Saturn's
+largest moon, Titan,
+
+94
+00:05:35,434 --> 00:05:37,036
+in the upper right-hand corner.
+
+95
+00:05:40,773 --> 00:05:43,943
+- [Narrator] The two Voyager
+flybys soon followed,
+
+96
+00:05:45,711 --> 00:05:49,816
+offering even more captivating
+views and discoveries.
+
+97
+00:05:51,550 --> 00:05:54,220
+What these missions
+found left scientists
+
+98
+00:05:54,253 --> 00:05:58,023
+clamoring to go again,
+and not just to pass by,
+
+99
+00:05:58,057 --> 00:05:59,792
+but to stay.
+
+100
+00:06:01,059 --> 00:06:04,062
+A blueprint and even
+some spare parts
+
+101
+00:06:04,096 --> 00:06:07,133
+for just such an
+adventure already existed.
+
+102
+00:06:08,067 --> 00:06:09,935
+NASA's Galileo mission,
+
+103
+00:06:09,968 --> 00:06:13,272
+that sent an orbiter
+and a probe to Jupiter.
+
+104
+00:06:13,306 --> 00:06:16,175
+Advocates in Europe
+and the United States
+
+105
+00:06:16,208 --> 00:06:19,545
+argued for a similar
+mission destined for Saturn,
+
+106
+00:06:19,578 --> 00:06:22,682
+one composed of an
+international consortium.
+
+107
+00:06:24,483 --> 00:06:27,119
+How such a project with
+all its complexities
+
+108
+00:06:27,152 --> 00:06:29,921
+could be done, no
+one really knew.
+
+109
+00:06:29,955 --> 00:06:34,393
+Sorting out roles,
+responsibilities, and
+especially funding,
+
+110
+00:06:34,426 --> 00:06:36,929
+took the better
+part of a decade.
+
+111
+00:06:38,564 --> 00:06:42,434
+The European Space Agency
+offered to build the probe,
+
+112
+00:06:42,468 --> 00:06:46,705
+named Huygens, to land
+on Saturn's moon Titan.
+
+113
+00:06:46,739 --> 00:06:49,775
+The Italian Space Agency
+would build the main antenna
+
+114
+00:06:49,808 --> 00:06:51,477
+and communication system.
+
+115
+00:06:52,645 --> 00:06:56,014
+The spacecraft thrusters
+and the main engines
+
+116
+00:06:56,048 --> 00:06:59,385
+would be provided by US
+commercial space companies.
+
+117
+00:07:01,453 --> 00:07:05,323
+And NASA's Jet Propulsion
+Laboratory signed on
+
+118
+00:07:05,357 --> 00:07:07,293
+to build and fly the spacecraft,
+
+119
+00:07:07,326 --> 00:07:09,962
+to be named in honor
+of the 17th century
+
+120
+00:07:09,995 --> 00:07:13,166
+astronomer Giovanni Cassini.
+
+121
+00:07:15,267 --> 00:07:19,005
+JPL would also provide overall
+management of the mission.
+
+122
+00:07:20,172 --> 00:07:23,642
+In total, 19 countries
+would provide hardware,
+
+123
+00:07:23,675 --> 00:07:27,446
+while scientists would
+come from 26 nations.
+
+124
+00:07:27,479 --> 00:07:28,681
+- Good morning.
+
+125
+00:07:28,714 --> 00:07:30,516
+I wanna welcome
+all of you to JPL,
+
+126
+00:07:30,550 --> 00:07:32,217
+and at the beginning of
+what is gonna be clearly
+
+127
+00:07:32,250 --> 00:07:34,253
+a very exciting mission.
+
+128
+00:07:34,286 --> 00:07:36,422
+I know that a lot
+of you have a...
+
+129
+00:07:36,455 --> 00:07:37,990
+- [Narrator] This is
+the first gathering
+
+130
+00:07:38,023 --> 00:07:41,293
+of Cassini Huygens
+scientists and engineers,
+
+131
+00:07:41,327 --> 00:07:45,097
+their goal to transform
+this complex partnership
+
+132
+00:07:45,130 --> 00:07:47,833
+into a functioning team.
+
+133
+00:07:47,867 --> 00:07:50,902
+- Our Congress has had some
+agony over the program.
+
+134
+00:07:50,936 --> 00:07:53,772
+For a time it looked
+as though only Cassini
+
+135
+00:07:53,806 --> 00:07:55,741
+would be approved.
+
+136
+00:07:55,775 --> 00:07:58,810
+- [Narrator] There are
+layers of unease in the room.
+
+137
+00:07:58,844 --> 00:08:00,646
+The Europeans want to
+know that they'll be
+
+138
+00:08:00,679 --> 00:08:03,182
+treated as equal partners.
+
+139
+00:08:03,215 --> 00:08:07,119
+And there are also concerns
+about US reliability,
+
+140
+00:08:07,152 --> 00:08:09,555
+given that NASA has
+recently dropped out
+
+141
+00:08:09,588 --> 00:08:11,022
+of another partnership.
+
+142
+00:08:11,056 --> 00:08:12,291
+- We're going to have to operate
+
+143
+00:08:12,324 --> 00:08:13,926
+under a very strict
+fund ceiling,
+
+144
+00:08:13,959 --> 00:08:18,564
+one that is imposed by Congress
+and an unyielding schedule.
+
+145
+00:08:18,597 --> 00:08:20,132
+And we all have
+great challenges-
+
+146
+00:08:20,166 --> 00:08:21,700
+- [Narrator] NASA
+has already warned
+
+147
+00:08:21,733 --> 00:08:23,269
+that the mission
+will be canceled
+
+148
+00:08:23,302 --> 00:08:25,805
+if the project strays
+over its budget.
+
+149
+00:08:27,206 --> 00:08:30,776
+All eyes are on Cassini's
+first program manager,
+
+150
+00:08:30,809 --> 00:08:34,446
+John Casani, who has already
+spoken of eliminating
+
+151
+00:08:34,480 --> 00:08:36,749
+some of the science instruments.
+
+152
+00:08:36,782 --> 00:08:39,752
+- Seriously like to
+welcome everybody.
+
+153
+00:08:39,784 --> 00:08:40,985
+Nice to be here.
+
+154
+00:08:41,020 --> 00:08:43,355
+A lot of old friends,
+a lot of new faces,
+
+155
+00:08:43,388 --> 00:08:45,357
+which I hope we'll be
+friends before we're through
+
+156
+00:08:45,391 --> 00:08:47,092
+with this process.
+
+157
+00:08:47,125 --> 00:08:49,462
+But those of you
+who don't know me,
+
+158
+00:08:49,495 --> 00:08:54,500
+will find out a lot in
+the next couple of years.
+
+159
+00:08:55,834 --> 00:08:59,404
+This will require doing
+business in a fairly drastically
+
+160
+00:08:59,438 --> 00:09:01,940
+different way than
+we've done before.
+
+161
+00:09:01,974 --> 00:09:03,675
+We are all gonna
+have to strive for,
+
+162
+00:09:03,709 --> 00:09:07,145
+as we go through this process,
+is a continual search,
+
+163
+00:09:07,179 --> 00:09:09,815
+as my old friend Gentry
+Lee used to like to say,
+
+164
+00:09:09,849 --> 00:09:11,550
+for the least
+unacceptable solution.
+
+165
+00:09:11,583 --> 00:09:13,719
+There are gonna have
+to be compromises.
+
+166
+00:09:13,752 --> 00:09:15,521
+We wanna work with you.
+
+167
+00:09:15,554 --> 00:09:18,791
+- [Narrator] This was not what
+scientists had hoped to hear.
+
+168
+00:09:18,824 --> 00:09:21,693
+- I think this is a
+very severe degrade
+
+169
+00:09:21,727 --> 00:09:23,395
+in the capabilities
+of this mission.
+
+170
+00:09:23,428 --> 00:09:25,331
+- What we did was we
+did all of these things
+
+171
+00:09:25,364 --> 00:09:28,000
+to finally get down to
+something that we could afford.
+
+172
+00:09:28,033 --> 00:09:30,269
+- That sounds to me like
+a very unwise thing to do.
+
+173
+00:09:30,302 --> 00:09:33,072
+I mean, the essence of this
+mission is to get data back.
+
+174
+00:09:34,507 --> 00:09:36,408
+- [Narrator] The friction
+between what scientists want
+
+175
+00:09:36,441 --> 00:09:39,512
+and what engineers
+can do will be a theme
+
+176
+00:09:39,545 --> 00:09:41,981
+running throughout the
+lifetime of the mission.
+
+177
+00:09:43,115 --> 00:09:45,718
+So, we'll be deciding
+which of Cassini's
+
+178
+00:09:45,751 --> 00:09:49,221
+12 different science
+instruments will have priority
+
+179
+00:09:49,255 --> 00:09:50,856
+at any given time.
+
+180
+00:09:52,057 --> 00:09:54,993
+First up to plead
+his case is the head
+
+181
+00:09:55,027 --> 00:09:59,098
+of the science radar
+team, Charles Elachi.
+
+182
+00:09:59,131 --> 00:10:00,332
+- Good morning.
+
+183
+00:10:00,365 --> 00:10:02,067
+I understand from Dennis
+that the first speaker
+
+184
+00:10:02,100 --> 00:10:03,603
+gets everything he asks for.
+
+185
+00:10:07,773 --> 00:10:10,275
+There is a good thing and a
+bad thing about the radar.
+
+186
+00:10:10,309 --> 00:10:13,478
+The good thing is that
+for every Saturn orbit,
+
+187
+00:10:13,512 --> 00:10:15,547
+we need to operate
+only for one hour.
+
+188
+00:10:15,581 --> 00:10:18,150
+You can have all the rest
+of the time, but one hour.
+
+189
+00:10:19,351 --> 00:10:20,820
+The bad thing is that
+when we turn it on,
+
+190
+00:10:20,853 --> 00:10:22,654
+the lights on the
+spacecraft will dim,
+
+191
+00:10:22,687 --> 00:10:24,690
+you know, it'll go down.
+
+192
+00:10:24,723 --> 00:10:27,025
+- [Narrator] Representing
+the needs of the imaging team
+
+193
+00:10:27,059 --> 00:10:29,561
+is its leader, Carolyn Porco.
+
+194
+00:10:29,594 --> 00:10:31,129
+- Rates which are
+lower than that.
+
+195
+00:10:31,163 --> 00:10:32,797
+After all, we know
+what it will take
+
+196
+00:10:32,831 --> 00:10:35,100
+to image the objects at Saturn,
+
+197
+00:10:35,133 --> 00:10:36,569
+that we know are there.
+
+198
+00:10:36,602 --> 00:10:39,971
+My question is, what is it
+that's there that we don't know
+
+199
+00:10:40,005 --> 00:10:42,841
+and we want to have a
+very stable platform
+
+200
+00:10:42,874 --> 00:10:44,843
+and be able to do
+long exposures.
+
+201
+00:10:44,877 --> 00:10:46,512
+These are issues
+that ring scientists
+
+202
+00:10:46,545 --> 00:10:48,013
+stay up late at
+night worrying about.
+
+203
+00:10:48,046 --> 00:10:49,548
+- We are running a
+bit behind schedule
+
+204
+00:10:49,581 --> 00:10:51,050
+so we shall skip
+the coffee break,
+
+205
+00:10:51,083 --> 00:10:54,219
+but there is still coffee
+for those who can't survive.
+
+206
+00:10:54,253 --> 00:10:55,720
+- [Narrator] One after another,
+
+207
+00:10:55,754 --> 00:10:58,524
+the science teams take to the
+podium to make their pitches
+
+208
+00:10:58,557 --> 00:11:02,061
+and at times to express
+their displeasure.
+
+209
+00:11:03,562 --> 00:11:06,865
+- Okay, this is one
+of the smaller teams,
+
+210
+00:11:06,898 --> 00:11:09,802
+and I suppose one of
+the smaller instruments,
+
+211
+00:11:09,835 --> 00:11:13,572
+although perhaps not as small
+as the project might like.
+
+212
+00:11:13,605 --> 00:11:17,642
+I'm afraid I have to
+say that we have to have
+
+213
+00:11:17,676 --> 00:11:19,979
+an instrument that performs best
+
+214
+00:11:20,012 --> 00:11:22,714
+within the planetary
+environment.
+
+215
+00:11:22,748 --> 00:11:25,451
+So life is not as
+simple as perhaps
+
+216
+00:11:25,484 --> 00:11:27,319
+some people have seen it.
+
+217
+00:11:28,553 --> 00:11:31,056
+- The other challenge
+that we've had here
+
+218
+00:11:31,089 --> 00:11:34,259
+is a recognition over the
+past few months that the...
+
+219
+00:11:34,292 --> 00:11:36,662
+- [Narrator] Hoping to
+resolve these conflicts,
+
+220
+00:11:36,695 --> 00:11:39,198
+Casani offers up
+an unexpected plan
+
+221
+00:11:39,231 --> 00:11:42,534
+to put the scientists
+more in control.
+
+222
+00:11:42,567 --> 00:11:46,972
+- We need to incentivize
+you to do the best job
+
+223
+00:11:47,006 --> 00:11:50,208
+of making the best estimates
+of what it's gonna cost
+
+224
+00:11:50,241 --> 00:11:51,644
+at the time of confirmation.
+
+225
+00:11:52,811 --> 00:11:54,212
+- [Narrator] Instead of
+having decisions made
+
+226
+00:11:54,246 --> 00:11:55,681
+from the top down,
+
+227
+00:11:55,715 --> 00:11:59,051
+Casani proposes establishing
+a trading system.
+
+228
+00:11:59,084 --> 00:12:02,721
+Each science team will be given
+a defined amount of money,
+
+229
+00:12:02,754 --> 00:12:05,590
+mass, power and data rates.
+
+230
+00:12:05,624 --> 00:12:08,059
+If later they need
+more of anything,
+
+231
+00:12:08,093 --> 00:12:10,295
+they will have to work
+with the other teams
+
+232
+00:12:10,328 --> 00:12:12,131
+to solve their problem.
+
+233
+00:12:12,164 --> 00:12:16,335
+The scientists agree to this
+unusual bartering system.
+
+234
+00:12:16,368 --> 00:12:18,937
+It is the first major
+step in building
+
+235
+00:12:18,970 --> 00:12:21,440
+a functioning
+international team.
+
+236
+00:12:21,473 --> 00:12:23,208
+- Any questions?
+
+237
+00:12:23,242 --> 00:12:24,844
+All right, Dennis, thank you.
+
+238
+00:12:47,099 --> 00:12:49,001
+- [Narrator] By
+the fall of 1997,
+
+239
+00:12:49,034 --> 00:12:51,336
+what had once been
+just blueprints
+
+240
+00:12:51,370 --> 00:12:53,672
+are now real pieces of hardware.
+
+241
+00:12:55,507 --> 00:12:57,676
+For over the last six years,
+
+242
+00:12:57,709 --> 00:13:01,046
+the mission has managed
+to survive being canceled,
+
+243
+00:13:01,079 --> 00:13:03,048
+something another
+NASA spacecraft
+
+244
+00:13:03,081 --> 00:13:05,984
+meant to rendezvous with
+a comet and an asteroid,
+
+245
+00:13:06,018 --> 00:13:07,653
+was unable to do.
+
+246
+00:13:09,822 --> 00:13:12,858
+This was part of a new
+NASA strategy to cut back
+
+247
+00:13:12,891 --> 00:13:15,160
+on large and
+expensive spacecraft.
+
+248
+00:13:15,194 --> 00:13:19,164
+And there was no
+disguising Cassini's size.
+
+249
+00:13:19,197 --> 00:13:20,765
+It remains, to this day,
+
+250
+00:13:20,799 --> 00:13:24,903
+the largest US interplanetary
+spacecraft ever built.
+
+251
+00:13:24,936 --> 00:13:28,140
+Standing three stories
+tall, when fully loaded,
+
+252
+00:13:28,173 --> 00:13:31,343
+it will weigh 12 and a
+half thousand pounds.
+
+253
+00:13:33,245 --> 00:13:35,481
+- The first time I saw
+the spacecraft together,
+
+254
+00:13:35,514 --> 00:13:37,482
+when we stacked
+without the blankets,
+
+255
+00:13:37,516 --> 00:13:40,952
+I must have stood in the
+visitor gallery for 30 minutes.
+
+256
+00:13:40,985 --> 00:13:45,090
+And it's... I don't
+know how to describe it.
+
+257
+00:13:45,123 --> 00:13:47,159
+It's not yours
+anymore, you know.
+
+258
+00:13:47,192 --> 00:13:50,462
+Even though I had been
+intimate with each piece
+
+259
+00:13:50,495 --> 00:13:52,564
+and part of that spacecraft
+and put it together
+
+260
+00:13:52,597 --> 00:13:55,166
+wire by wire and
+in part by part,
+
+261
+00:13:55,200 --> 00:13:59,404
+to watch it come together as
+a whole entity was incredible.
+
+262
+00:13:59,438 --> 00:14:01,473
+We were without words
+standing out there.
+
+263
+00:14:03,942 --> 00:14:05,944
+- Every now and then
+we'll be working in here
+
+264
+00:14:05,978 --> 00:14:08,480
+and you'll think, wow,
+this is going to Saturn
+
+265
+00:14:08,513 --> 00:14:11,950
+and this probe is
+gonna land on Titan.
+
+266
+00:14:11,984 --> 00:14:14,386
+And this is going
+somewhere where we've never
+
+267
+00:14:14,419 --> 00:14:17,590
+seen things before and you
+get goosebumps from it.
+
+268
+00:14:18,890 --> 00:14:20,825
+- [Narrator] The spacecraft
+has been designed
+
+269
+00:14:20,859 --> 00:14:23,128
+with redundancy as a priority.
+
+270
+00:14:23,161 --> 00:14:26,598
+Each critical system
+has an identical backup.
+
+271
+00:14:26,632 --> 00:14:30,268
+And its advanced software
+will allow the spacecraft
+
+272
+00:14:30,301 --> 00:14:32,504
+at times to fly on its own,
+
+273
+00:14:32,537 --> 00:14:35,774
+and even self-repair
+computer glitches.
+
+274
+00:14:39,378 --> 00:14:44,383
+In Cassini's interior are
+some 22,000 wire connections
+
+275
+00:14:45,551 --> 00:14:47,620
+and more than seven
+miles of cabling.
+
+276
+00:14:48,787 --> 00:14:51,724
+- I'm technically an
+engineering assistant,
+
+277
+00:14:51,757 --> 00:14:55,226
+and what I do is cabling
+for the spacecraft
+
+278
+00:14:55,260 --> 00:14:57,162
+and I've been doing
+it for 20 years.
+
+279
+00:15:00,299 --> 00:15:04,169
+One of the really positive
+points about our mechanical team
+
+280
+00:15:04,202 --> 00:15:08,407
+is that they never say no.
+
+281
+00:15:08,440 --> 00:15:10,375
+They never seem to tire.
+
+282
+00:15:10,409 --> 00:15:12,177
+They're always up.
+
+283
+00:15:12,210 --> 00:15:15,481
+(chuckles) I don't think we
+could ask for a better team.
+
+284
+00:15:23,822 --> 00:15:25,724
+- [Narrator] One of
+the last assembly tasks
+
+285
+00:15:25,757 --> 00:15:30,162
+is to cover this bare
+spacecraft with blankets.
+
+286
+00:15:33,098 --> 00:15:36,334
+Using machines more often
+used for fine tailoring
+
+287
+00:15:36,368 --> 00:15:38,303
+than engineering,
+
+288
+00:15:38,337 --> 00:15:41,373
+this reflective material is
+cut to protect the spacecraft
+
+289
+00:15:41,406 --> 00:15:45,344
+early in the mission, when
+it flies toward the sun.
+
+290
+00:15:48,046 --> 00:15:50,582
+This black fabric
+will do the opposite,
+
+291
+00:15:50,615 --> 00:15:53,952
+absorbing and retaining
+heat out at Saturn,
+
+292
+00:15:53,985 --> 00:15:57,589
+where sunlight is only 1%
+the strength found at Earth.
+
+293
+00:15:58,757 --> 00:16:00,826
+The layers will also
+provide shielding
+
+294
+00:16:00,859 --> 00:16:02,627
+from micro meteoroids,
+
+295
+00:16:02,660 --> 00:16:05,730
+tiny particles of
+dust that could damage
+
+296
+00:16:05,764 --> 00:16:07,833
+the spacecraft's electronics.
+
+297
+00:16:11,703 --> 00:16:13,172
+This is tedious work,
+
+298
+00:16:13,205 --> 00:16:16,441
+cutting, stitching
+and fitting hundreds
+
+299
+00:16:16,475 --> 00:16:18,978
+of individually measured pieces.
+
+300
+00:16:20,078 --> 00:16:22,747
+It is a job made
+even more challenging
+
+301
+00:16:22,780 --> 00:16:25,116
+knowing that this
+intricate space quilt,
+
+302
+00:16:25,149 --> 00:16:27,986
+like all of Cassini's
+major components,
+
+303
+00:16:28,019 --> 00:16:30,989
+will have to be unmounted
+for shipping to Florida,
+
+304
+00:16:31,022 --> 00:16:34,159
+where everything will
+be reassembled again.
+
+305
+00:16:35,994 --> 00:16:37,462
+- We have had less
+problem with this
+
+306
+00:16:37,495 --> 00:16:40,632
+than I can remember having
+on any other spacecraft.
+
+307
+00:16:40,666 --> 00:16:42,167
+It's almost scary.
+
+308
+00:16:42,200 --> 00:16:44,035
+It's just beautiful.
+
+309
+00:16:44,069 --> 00:16:45,304
+No problems.
+
+310
+00:16:45,337 --> 00:16:47,106
+No major problems anyway.
+
+311
+00:16:51,976 --> 00:16:54,613
+- [Narrator] While transforming
+Cassini from a blueprint
+
+312
+00:16:54,646 --> 00:16:57,983
+into a real spacecraft had
+gone exceptionally well,
+
+313
+00:16:58,017 --> 00:17:01,587
+getting to the final
+design had been torturous.
+
+314
+00:17:04,589 --> 00:17:07,726
+Facing budget cuts,
+the project was forced
+
+315
+00:17:07,759 --> 00:17:11,163
+to make another least
+unacceptable decision.
+
+316
+00:17:12,364 --> 00:17:14,966
+Instead of dropping
+science instruments,
+
+317
+00:17:15,000 --> 00:17:18,536
+the spacecraft itself was
+scaled back by eliminating
+
+318
+00:17:18,569 --> 00:17:20,171
+the scan platform,
+
+319
+00:17:20,204 --> 00:17:23,474
+a kind of turntable
+required by some instruments
+
+320
+00:17:23,508 --> 00:17:25,077
+needing motion.
+
+321
+00:17:25,109 --> 00:17:27,612
+Without the platform,
+the entire spacecraft
+
+322
+00:17:27,646 --> 00:17:30,248
+will have to rotate
+to aim at targets,
+
+323
+00:17:30,281 --> 00:17:33,852
+resulting also in
+less observation time.
+
+324
+00:17:33,885 --> 00:17:37,556
+But all of the science
+instruments have survived.
+
+325
+00:17:49,901 --> 00:17:52,037
+Operations are now
+almost complete
+
+326
+00:17:52,070 --> 00:17:54,639
+for the launch of
+Cassini Huygens.
+
+327
+00:17:54,672 --> 00:17:57,008
+Already on the launch
+pad is the Air Force's
+
+328
+00:17:57,041 --> 00:17:59,812
+heavy lifting Titan 4B
+
+329
+00:18:05,050 --> 00:18:07,619
+Cassini and the probe
+have been reassembled.
+
+330
+00:18:08,753 --> 00:18:11,022
+One of the last
+procedures involves
+
+331
+00:18:11,056 --> 00:18:14,326
+loading onto the spacecraft
+its power supply,
+
+332
+00:18:14,359 --> 00:18:17,162
+72 pounds of
+plutonium encased in
+
+333
+00:18:17,195 --> 00:18:21,499
+what are called radio isotope
+thermoelectric generators,
+
+334
+00:18:21,533 --> 00:18:25,471
+or mercifully called
+for short RTGs.
+
+335
+00:18:29,640 --> 00:18:33,112
+RTGs have been used
+on previous missions,
+
+336
+00:18:34,479 --> 00:18:37,482
+but recent nuclear
+power plant accidents
+
+337
+00:18:37,515 --> 00:18:40,352
+and the loss of the
+Space Shuttle Challenger
+
+338
+00:18:40,385 --> 00:18:42,954
+have heightened public
+fears of a launch accident
+
+339
+00:18:42,987 --> 00:18:44,890
+spreading nuclear debris.
+
+340
+00:18:49,294 --> 00:18:51,562
+Hoping to stop the launch,
+
+341
+00:18:51,596 --> 00:18:55,266
+anti-nuclear groups
+file lawsuits, petition
+the White House,
+
+342
+00:18:55,300 --> 00:18:58,937
+and hold demonstrations at
+the Kennedy Space Center.
+
+343
+00:19:00,505 --> 00:19:03,441
+- Since this is the last public
+forum to ensure the public
+
+344
+00:19:03,474 --> 00:19:05,476
+that everything is
+going to be all right,
+
+345
+00:19:05,510 --> 00:19:06,978
+could you do that one last time
+
+346
+00:19:07,011 --> 00:19:09,147
+and use your best
+argument to persuade,
+
+347
+00:19:09,181 --> 00:19:11,082
+perhaps, some of your opponents?
+
+348
+00:19:11,115 --> 00:19:13,452
+- RTGs were designed
+for accident conditions.
+
+349
+00:19:13,485 --> 00:19:14,786
+We've designed them,
+we've tested them,
+
+350
+00:19:14,819 --> 00:19:16,687
+we've analyzed for
+it, we've gone through
+
+351
+00:19:16,721 --> 00:19:18,556
+a very lengthy review process.
+
+352
+00:19:18,589 --> 00:19:21,526
+And in fact, these
+are very safe to use.
+
+353
+00:19:21,559 --> 00:19:22,894
+There's not a risk
+to the public,
+
+354
+00:19:22,928 --> 00:19:24,663
+even if there is an accident.
+
+355
+00:19:24,696 --> 00:19:27,466
+- Would you all confirm
+your faith in this mission
+
+356
+00:19:27,499 --> 00:19:32,003
+by telling us how many
+family members, kids,
+
+357
+00:19:32,037 --> 00:19:36,642
+and grandkids you have here
+watching this launch with you?
+
+358
+00:19:36,675 --> 00:19:39,811
+- Well, I have 30 members
+of my family here right now,
+
+359
+00:19:39,845 --> 00:19:42,047
+including my two granddaughters.
+
+360
+00:19:42,080 --> 00:19:43,549
+There's more on the way.
+
+361
+00:19:44,516 --> 00:19:46,451
+(crowd laughing)
+
+362
+00:19:46,484 --> 00:19:48,653
+I don't know if I have more
+grandchildren on the way,
+
+363
+00:19:48,686 --> 00:19:51,856
+but I have more
+family on the way.
+
+364
+00:19:51,890 --> 00:19:56,194
+The reality is there's no
+technology on the horizon
+
+365
+00:19:56,228 --> 00:19:59,530
+that has the promise
+to be available
+
+366
+00:19:59,564 --> 00:20:02,133
+in the foreseeable future at all
+
+367
+00:20:02,167 --> 00:20:05,203
+that could be used
+for feigning power
+
+368
+00:20:05,236 --> 00:20:06,772
+way in outer space,
+
+369
+00:20:06,805 --> 00:20:09,708
+where there is effectively
+very little sunlight.
+
+370
+00:20:09,741 --> 00:20:14,379
+At Saturn, we've got a 1% of
+what we have here on Earth.
+
+371
+00:20:14,412 --> 00:20:15,913
+We know Cassini is safe.
+
+372
+00:20:15,947 --> 00:20:20,919
+The generator is designed to
+be robust in the environments.
+
+373
+00:20:21,820 --> 00:20:24,523
+We do not rely on success.
+
+374
+00:20:24,556 --> 00:20:27,826
+We make it compatible
+with the environments
+
+375
+00:20:27,859 --> 00:20:30,695
+that might be generated
+and it's safe.
+
+376
+00:20:30,728 --> 00:20:33,231
+I invited everyone I
+love to the launch.
+
+377
+00:20:33,264 --> 00:20:34,466
+- [Man] Will there
+be information
+
+378
+00:20:34,499 --> 00:20:35,901
+on the success of
+this launch too?
+
+379
+00:20:35,934 --> 00:20:37,002
+- Absolutley.
+
+380
+00:20:38,370 --> 00:20:40,572
+You can find us with a bottle
+of champagne some place.
+
+381
+00:20:45,977 --> 00:20:48,780
+- [Man] FLC, we have
+325 and 326 complete.
+
+382
+00:20:48,813 --> 00:20:49,715
+Roger.
+
+383
+00:20:53,118 --> 00:20:57,255
+- [Man] EA and LCC
+327 and 328 on time.
+
+384
+00:20:57,288 --> 00:20:58,890
+Roger.
+
+385
+00:20:58,923 --> 00:21:00,892
+- [Woman] LCC, roger.
+
+386
+00:21:00,925 --> 00:21:02,227
+- [Man] The Air Force
+launch controller
+
+387
+00:21:02,260 --> 00:21:03,527
+has given a clear to launch.
+
+388
+00:21:03,561 --> 00:21:05,596
+We've got to go from the range
+
+389
+00:21:05,630 --> 00:21:08,500
+to proceed with the countdown.
+
+390
+00:21:08,533 --> 00:21:10,602
+- [Woman] Launch
+sequence started.
+
+391
+00:21:11,603 --> 00:21:12,604
+- [Man] T minus 10,
+
+392
+00:21:13,905 --> 00:21:15,340
+nine,
+
+393
+00:21:15,373 --> 00:21:16,174
+eight,
+
+394
+00:21:16,207 --> 00:21:17,275
+seven,
+
+395
+00:21:17,308 --> 00:21:18,510
+six,
+
+396
+00:21:18,543 --> 00:21:19,611
+five,
+
+397
+00:21:19,644 --> 00:21:20,512
+four,
+
+398
+00:21:20,545 --> 00:21:21,513
+three,
+
+399
+00:21:21,546 --> 00:21:22,681
+two,
+
+400
+00:21:22,714 --> 00:21:23,981
+one,
+
+401
+00:21:24,015 --> 00:21:26,217
+and liftoff of the
+Cassini spacecraft
+
+402
+00:21:26,250 --> 00:21:28,787
+on a billion mile
+trek to Saturn.
+
+403
+00:21:29,854 --> 00:21:31,356
+(cheering)
+
+404
+00:21:31,389 --> 00:21:33,258
+Pitch program is in.
+
+405
+00:21:33,291 --> 00:21:36,895
+(man talking indistinctly)
+
+406
+00:21:38,930 --> 00:21:40,799
+- [Man] We have
+cleared the tower
+
+407
+00:21:40,832 --> 00:21:43,702
+and the Cassini spacecraft
+is on its way to Saturn.
+
+408
+00:21:44,870 --> 00:21:46,104
+T+20 seconds.
+
+409
+00:21:46,137 --> 00:21:47,472
+All systems are go.
+
+410
+00:21:54,012 --> 00:21:57,082
+Standing by for solid
+rocket booster separation.
+
+411
+00:22:02,553 --> 00:22:05,991
+And the solid rocket boosters
+have been jettisoned.
+
+412
+00:22:06,024 --> 00:22:09,360
+- [Man] Item 149 and 150.
+
+413
+00:22:09,393 --> 00:22:10,562
+- [Man] All systems go.
+
+414
+00:22:26,010 --> 00:22:28,813
+- [Man] All CAS core
+stations, ops engineer,
+
+415
+00:22:28,846 --> 00:22:31,049
+launch vehicle reports
+payload fairing jettisoned.
+
+416
+00:22:44,496 --> 00:22:48,066
+- This launch was, for all
+practical purposes, perfect.
+
+417
+00:22:49,467 --> 00:22:51,603
+It was just right on target.
+
+418
+00:22:51,636 --> 00:22:54,672
+And the navigation
+corrections that we normally,
+
+419
+00:22:54,706 --> 00:22:56,308
+routinely expect to have to make
+
+420
+00:22:56,341 --> 00:22:59,578
+for these kinds of
+launches was very small.
+
+421
+00:22:59,611 --> 00:23:01,680
+It was an exceptionally
+good launch.
+
+422
+00:23:05,283 --> 00:23:07,886
+- [Narrator] But the
+launch, as good as it was,
+
+423
+00:23:07,919 --> 00:23:11,857
+was not powerful enough to send
+Cassini directly to Saturn.
+
+424
+00:23:16,595 --> 00:23:19,597
+To get there, mission
+designers had long before
+
+425
+00:23:19,631 --> 00:23:22,633
+devised a flight path,
+using mother nature
+
+426
+00:23:22,667 --> 00:23:26,937
+to gain extra boosts of
+speed by flying by planets,
+
+427
+00:23:26,971 --> 00:23:30,008
+what are called gravity assists.
+
+428
+00:23:30,041 --> 00:23:33,711
+Cassini's route required two
+inward swing bys at Venus,
+
+429
+00:23:33,744 --> 00:23:37,182
+next back to Earth,
+then outward to Jupiter,
+
+430
+00:23:38,350 --> 00:23:41,319
+and finally on to Saturn.
+
+431
+00:23:41,353 --> 00:23:44,589
+In all, a journey of
+over 2 billion miles,
+
+432
+00:23:44,622 --> 00:23:47,359
+lasting nearly seven years.
+
+433
+00:23:53,832 --> 00:23:56,101
+During the first
+Venus encounter,
+
+434
+00:23:56,134 --> 00:24:00,004
+Cassini grazed just above
+the planet's surface,
+
+435
+00:24:00,038 --> 00:24:04,276
+gaining an extra 16,000
+miles per hour of speed.
+
+436
+00:24:08,513 --> 00:24:11,516
+- The Cassini spacecraft
+has now been in space,
+
+437
+00:24:11,549 --> 00:24:14,385
+in flight, for a little
+over eight months.
+
+438
+00:24:14,419 --> 00:24:16,654
+And the performance of
+the spacecraft has been
+
+439
+00:24:16,687 --> 00:24:18,557
+essentially flawless.
+
+440
+00:24:18,590 --> 00:24:21,692
+Typically on spacecraft like
+this, of this complexity,
+
+441
+00:24:21,726 --> 00:24:25,563
+there are issues, complications
+of one sort or another,
+
+442
+00:24:25,596 --> 00:24:28,833
+that we have to work with
+some of our ground-based
+
+443
+00:24:28,866 --> 00:24:30,335
+command capability.
+
+444
+00:24:30,368 --> 00:24:33,404
+For the Cassini spacecraft,
+this just hasn't happened.
+
+445
+00:24:33,438 --> 00:24:35,340
+It's a remarkable spacecraft.
+
+446
+00:24:37,709 --> 00:24:39,177
+- [Narrator] True enough,
+
+447
+00:24:39,210 --> 00:24:42,981
+but Cassini is not yet a
+fully complete spacecraft.
+
+448
+00:24:45,617 --> 00:24:48,953
+- We had enough flight
+software on board at launch
+
+449
+00:24:48,986 --> 00:24:52,156
+to be able to fly the
+spacecraft, operate
+it, navigate it,
+
+450
+00:24:52,190 --> 00:24:54,993
+and not a whole
+lot more than that.
+
+451
+00:24:56,161 --> 00:24:58,596
+- When we launched,
+we had seven years
+
+452
+00:24:58,630 --> 00:25:00,999
+to get to Saturn and we actually
+
+453
+00:25:01,032 --> 00:25:06,037
+completely changed out the
+computer system twice in flight.
+
+454
+00:25:07,171 --> 00:25:09,340
+We would take the
+old computer software
+
+455
+00:25:09,374 --> 00:25:12,943
+and then load up the new
+software in the backup computer,
+
+456
+00:25:12,977 --> 00:25:14,812
+watch it for a while,
+make sure it was stable.
+
+457
+00:25:14,846 --> 00:25:17,315
+And then we would swap
+and make the backup
+
+458
+00:25:17,348 --> 00:25:18,282
+the prime computer.
+
+459
+00:25:18,315 --> 00:25:20,418
+Make sure it was stable.
+
+460
+00:25:20,452 --> 00:25:22,854
+- [Narrator] As engineers
+worked on completing
+
+461
+00:25:22,887 --> 00:25:26,157
+Cassini's software,
+scientists started lobbying
+
+462
+00:25:26,191 --> 00:25:27,692
+to begin using their instruments
+
+463
+00:25:27,725 --> 00:25:30,729
+far ahead of the
+agreed upon schedule.
+
+464
+00:25:32,330 --> 00:25:33,898
+- The cartoon.
+
+465
+00:25:33,931 --> 00:25:35,266
+You gotta see the cartoon.
+
+466
+00:25:35,300 --> 00:25:36,768
+You gotta see the whole thing.
+
+467
+00:25:36,801 --> 00:25:40,338
+So the idle spacecraft is
+the devil's playground.
+
+468
+00:25:41,372 --> 00:25:42,606
+For the first three years,
+
+469
+00:25:42,640 --> 00:25:44,608
+we weren't supposed
+to do anything.
+
+470
+00:25:44,642 --> 00:25:46,911
+We were supposed to fly a rock.
+
+471
+00:25:46,945 --> 00:25:50,115
+And we were just
+gonna go take this,
+
+472
+00:25:50,148 --> 00:25:53,418
+take the spacecraft,
+correct it engineering wise,
+
+473
+00:25:53,451 --> 00:25:56,120
+fly it by Venus, a
+couple of times by Earth,
+
+474
+00:25:56,153 --> 00:25:58,489
+and we really weren't
+gonna do much science.
+
+475
+00:25:58,523 --> 00:26:00,591
+And here were the
+scientists saying,
+
+476
+00:26:00,624 --> 00:26:02,327
+"You've got this
+great spacecraft,
+
+477
+00:26:02,360 --> 00:26:05,162
+everything's working on it,
+you don't have to check...
+
+478
+00:26:05,196 --> 00:26:06,864
+You know, you don't have
+to redo your thermal.
+
+479
+00:26:06,897 --> 00:26:08,933
+You don't have to redo this.
+
+480
+00:26:08,967 --> 00:26:10,735
+Let's do science."
+
+481
+00:26:11,936 --> 00:26:16,674
+And so I came in one day
+and this was on my door.
+
+482
+00:26:16,708 --> 00:26:19,110
+The idle spacecraft is
+the devil's playground.
+
+483
+00:26:20,512 --> 00:26:23,981
+I swore for years that
+one of the scientists
+
+484
+00:26:24,014 --> 00:26:25,583
+had put that on my door.
+
+485
+00:26:25,616 --> 00:26:26,918
+It was my boss.
+
+486
+00:26:26,951 --> 00:26:28,553
+He put that on my door.
+
+487
+00:26:37,428 --> 00:26:38,596
+- [Narrator] For the most part,
+
+488
+00:26:38,629 --> 00:26:40,865
+the scientists
+were accommodated,
+
+489
+00:26:40,899 --> 00:26:42,900
+but the project's
+priority was first
+
+490
+00:26:42,934 --> 00:26:45,136
+getting safely past the Earth,
+
+491
+00:26:45,169 --> 00:26:48,206
+which occurred in
+the summer of 1999,
+
+492
+00:26:48,239 --> 00:26:52,243
+giving Cassini another 12,000
+miles per hour of speed.
+
+493
+00:26:58,182 --> 00:27:01,752
+The next milestones were
+passing beyond the orbit of Mars
+
+494
+00:27:01,786 --> 00:27:03,755
+and the region of
+the asteroid belt.
+
+495
+00:27:11,562 --> 00:27:13,064
+Then came Jupiter,
+
+496
+00:27:14,098 --> 00:27:16,601
+where Cassini saw raging storms,
+
+497
+00:27:16,634 --> 00:27:18,637
+some centuries old.
+
+498
+00:27:20,037 --> 00:27:24,008
+Cassini also teamed up with the
+venerable Galileo spacecraft
+
+499
+00:27:24,041 --> 00:27:27,178
+to jointly measure
+Jupiter's magnetosphere,
+
+500
+00:27:27,211 --> 00:27:29,780
+a bubble of charged
+particles trapped
+
+501
+00:27:29,814 --> 00:27:32,517
+within the planet's
+magnetic field.
+
+502
+00:27:33,651 --> 00:27:37,689
+At closest approach,
+Cassini took this image.
+
+503
+00:27:37,722 --> 00:27:42,260
+At that time, the most detailed
+view of Jupiter ever seen.
+
+504
+00:27:55,039 --> 00:27:58,042
+The Jupiter encounter served
+as a full dress rehearsal
+
+505
+00:27:58,075 --> 00:27:59,711
+for what awaited at Saturn.
+
+506
+00:28:00,945 --> 00:28:02,514
+It revealed there
+was work to be done
+
+507
+00:28:02,547 --> 00:28:05,717
+in addressing Cassini's
+design compromise.
+
+508
+00:28:05,750 --> 00:28:08,619
+The lack of the scan platform
+that would have allowed
+
+509
+00:28:08,652 --> 00:28:11,222
+simultaneous use of
+science instruments,
+
+510
+00:28:11,255 --> 00:28:14,826
+needing either to move
+or to be rock steady.
+
+511
+00:28:16,961 --> 00:28:18,830
+- It meant you had to
+turn the spacecraft
+
+512
+00:28:18,863 --> 00:28:21,766
+every time you wanted to
+point an instrument someplace.
+
+513
+00:28:21,799 --> 00:28:24,569
+And we had 12 instruments,
+
+514
+00:28:24,602 --> 00:28:27,205
+and each instrument
+generally had
+
+515
+00:28:27,238 --> 00:28:30,241
+different pointing
+druthers, if not in fact,
+
+516
+00:28:30,275 --> 00:28:32,643
+hard and fast
+pointing requirements.
+
+517
+00:28:32,676 --> 00:28:35,346
+And so there was an
+awful lot of negotiation
+
+518
+00:28:35,379 --> 00:28:38,282
+that went on between the
+different science teams,
+
+519
+00:28:38,316 --> 00:28:41,285
+the different instrument
+representatives,
+
+520
+00:28:41,318 --> 00:28:43,454
+in deciding who was
+gonna get to control
+
+521
+00:28:43,488 --> 00:28:45,890
+the pointing of the
+spacecraft when.
+
+522
+00:28:45,923 --> 00:28:49,327
+It took a lot of time,
+a lot of negotiating,
+
+523
+00:28:49,360 --> 00:28:52,130
+a lot of compromises
+to make that work.
+
+524
+00:28:55,733 --> 00:28:57,368
+- [Narrator] Despite
+this restraint,
+
+525
+00:28:57,401 --> 00:29:00,238
+Cassini could now boast
+of being the most capable
+
+526
+00:29:00,271 --> 00:29:03,241
+interplanetary
+spacecraft ever sent out
+
+527
+00:29:03,274 --> 00:29:04,709
+into the solar system.
+
+528
+00:29:24,429 --> 00:29:27,365
+After a journey of
+nearly seven years,
+
+529
+00:29:27,398 --> 00:29:31,835
+Cassini and the Huygens probe
+are nearing Saturn's doorstep.
+
+530
+00:29:31,869 --> 00:29:34,805
+Whether two decades
+of dreaming, planning,
+
+531
+00:29:34,839 --> 00:29:38,176
+building, and undertaking
+this arduous journey
+
+532
+00:29:38,209 --> 00:29:41,679
+will be rewarded,
+will soon be known.
+
+533
+00:29:41,712 --> 00:29:44,849
+For just ahead is the
+most dangerous moment
+
+534
+00:29:44,882 --> 00:29:47,018
+that Cassini will face.
+
+535
+00:29:47,051 --> 00:29:48,853
+SOI.
+
+536
+00:29:48,886 --> 00:29:50,889
+Saturn Orbit Insertion.
+
+537
+00:29:53,824 --> 00:29:57,795
+No one is more excited, or
+anxious, about this moment
+
+538
+00:29:57,828 --> 00:29:59,964
+than Charles Elachi.
+
+539
+00:29:59,997 --> 00:30:02,666
+In addition to still
+being the team lead
+
+540
+00:30:02,700 --> 00:30:04,868
+for Cassini's radar experiment,
+
+541
+00:30:04,902 --> 00:30:06,571
+he now heads JPL.
+
+542
+00:30:06,604 --> 00:30:10,508
+- Cassini is probably one of
+the most exciting missions
+
+543
+00:30:10,541 --> 00:30:15,547
+ever undertaken by the US
+and it deserves more credit.
+
+544
+00:30:16,748 --> 00:30:19,149
+So when we come to
+the orbit insertion,
+
+545
+00:30:19,183 --> 00:30:21,652
+after advocating
+for it, selling it,
+
+546
+00:30:21,685 --> 00:30:24,688
+building it and flying it,
+
+547
+00:30:24,722 --> 00:30:27,625
+it was a really very
+sobering moment.
+
+548
+00:30:29,226 --> 00:30:33,832
+The engine better
+fire, otherwise we'll
+end with a fly by.
+
+549
+00:30:35,299 --> 00:30:38,302
+You have to remember that
+we had the Mars Observer,
+
+550
+00:30:38,336 --> 00:30:41,439
+where when we turned on the
+engine, the thing disappeared.
+
+551
+00:30:44,107 --> 00:30:45,977
+- [Narrator] 11 years before,
+
+552
+00:30:46,010 --> 00:30:48,646
+as Mars Observer was
+approaching Mars,
+
+553
+00:30:48,679 --> 00:30:51,315
+the spacecraft was
+commanded to pressurize
+
+554
+00:30:51,348 --> 00:30:52,851
+its propulsion system.
+
+555
+00:30:54,285 --> 00:30:57,422
+The spacecraft was
+never heard from again.
+
+556
+00:31:00,224 --> 00:31:03,527
+It's believed a massive rupture
+in the fuel lines occurred,
+
+557
+00:31:03,560 --> 00:31:07,465
+putting the spacecraft
+into an unrecoverable spin.
+
+558
+00:31:12,603 --> 00:31:14,505
+We have about 15, 20 minutes.
+
+559
+00:31:14,538 --> 00:31:17,175
+This is Bob Mitchell, who
+is the project manager.
+
+560
+00:31:18,609 --> 00:31:20,911
+- Okay, well, I think
+we've got what'll be
+
+561
+00:31:20,945 --> 00:31:23,447
+a rather interesting
+program laid out here
+
+562
+00:31:23,480 --> 00:31:24,715
+for you this evening.
+
+563
+00:31:24,749 --> 00:31:27,384
+Certainly gonna have
+a little drama to it.
+
+564
+00:31:27,418 --> 00:31:32,257
+I was kinda confident, but
+I was worried, concerned.
+
+565
+00:31:33,691 --> 00:31:36,261
+Nervous might be the
+best word as well.
+
+566
+00:31:41,032 --> 00:31:43,501
+- [Narrator] To slow down
+enough to be captured
+
+567
+00:31:43,534 --> 00:31:45,102
+by Saturn's gravity,
+
+568
+00:31:45,136 --> 00:31:48,640
+Cassini will have to turn
+on its seldom used engine
+
+569
+00:31:48,673 --> 00:31:50,908
+for 96 minutes.
+
+570
+00:31:50,942 --> 00:31:54,145
+Anything less could result
+in flying past the planet,
+
+571
+00:31:55,113 --> 00:31:56,514
+never to return.
+
+572
+00:32:01,386 --> 00:32:03,855
+The flight path will take
+Cassini and the probe
+
+573
+00:32:03,888 --> 00:32:08,226
+up through and back down
+a gap in Saturn's rings.
+
+574
+00:32:08,259 --> 00:32:10,060
+There's worry that
+there could be particles
+
+575
+00:32:10,093 --> 00:32:12,396
+in these regions large
+enough to damage,
+
+576
+00:32:12,430 --> 00:32:16,233
+or even destroy, the spacecraft.
+
+577
+00:32:16,267 --> 00:32:18,002
+- I think as a ring scientist,
+
+578
+00:32:18,035 --> 00:32:21,071
+my greatest concern was really
+crossing through that gap
+
+579
+00:32:21,104 --> 00:32:23,074
+in the F and G rings.
+
+580
+00:32:23,107 --> 00:32:26,910
+It would only have taken
+one marble sized particle
+
+581
+00:32:26,944 --> 00:32:28,879
+in the wrong place
+in the spacecraft
+
+582
+00:32:28,912 --> 00:32:30,681
+to perhaps have
+ended the mission.
+
+583
+00:32:30,714 --> 00:32:33,651
+So for me, the most,
+you know, breathtaking,
+
+584
+00:32:33,684 --> 00:32:35,519
+the heart stopping
+time, was really
+
+585
+00:32:35,553 --> 00:32:37,255
+crossing through the ring plane.
+
+586
+00:32:39,089 --> 00:32:40,858
+- [Narrator] To reduce the risk,
+
+587
+00:32:40,891 --> 00:32:44,161
+Cassini will fly through the
+gaps with its high gain antenna
+
+588
+00:32:44,194 --> 00:32:47,498
+facing forward to
+act as a shield.
+
+589
+00:32:47,531 --> 00:32:50,300
+During these times, the only
+signal coming back to Earth
+
+590
+00:32:50,334 --> 00:32:55,005
+will be from a smaller antenna
+transmitting a single tone.
+
+591
+00:32:55,039 --> 00:32:58,242
+The pitch, or frequency,
+of the tone will vary
+
+592
+00:32:58,275 --> 00:33:01,145
+with changes to the
+spacecraft's speed.
+
+593
+00:33:01,179 --> 00:33:03,381
+What's known as
+the Doppler effect.
+
+594
+00:33:04,782 --> 00:33:07,852
+This will tell engineers how
+the spacecraft is performing...
+
+595
+00:33:08,852 --> 00:33:10,354
+or not.
+
+596
+00:33:10,387 --> 00:33:12,790
+- Zero is the
+reference frequency,
+
+597
+00:33:12,823 --> 00:33:14,959
+the nominal frequency
+that we would see
+
+598
+00:33:14,992 --> 00:33:16,593
+if there were no burn.
+
+599
+00:33:16,627 --> 00:33:18,229
+So if the motor never ignited,
+
+600
+00:33:18,262 --> 00:33:20,430
+what would happen
+is this line up here
+
+601
+00:33:20,464 --> 00:33:22,967
+would just go right
+straight across.
+
+602
+00:33:23,000 --> 00:33:24,735
+I would lie in bed at
+night and think about
+
+603
+00:33:24,769 --> 00:33:27,304
+what other tests should we do?
+
+604
+00:33:27,337 --> 00:33:29,840
+What other question
+should I be asking?
+
+605
+00:33:29,874 --> 00:33:32,743
+What should we be poking at
+here that we haven't done yet?
+
+606
+00:33:32,777 --> 00:33:35,580
+And this corner right
+here corresponds to
+
+607
+00:33:35,613 --> 00:33:37,448
+where the burn should end.
+
+608
+00:33:37,482 --> 00:33:40,684
+There wasn't any single
+thing that I could point to
+
+609
+00:33:40,718 --> 00:33:42,653
+and say that thing right there
+
+610
+00:33:42,687 --> 00:33:44,889
+has a fair chance of biting us.
+
+611
+00:33:44,922 --> 00:33:46,690
+There just wasn't
+anything like that.
+
+612
+00:33:46,724 --> 00:33:51,129
+But when you consider all the
+things that had to happen...
+
+613
+00:33:51,162 --> 00:33:53,330
+or not happen,
+
+614
+00:33:53,364 --> 00:33:56,634
+there were enough of them
+that the aggregate of them
+
+615
+00:33:56,667 --> 00:33:58,569
+was cause for being nervous.
+
+616
+00:33:58,602 --> 00:33:59,803
+And I was.
+
+617
+00:33:59,837 --> 00:34:03,141
+That would be cause for
+some level of concern.
+
+618
+00:34:09,612 --> 00:34:13,784
+- [Julie] SOI was such a,
+just such a team effort.
+
+619
+00:34:14,985 --> 00:34:16,754
+We chased everything
+that could go wrong
+
+620
+00:34:16,786 --> 00:34:18,021
+down the rabbit hole.
+
+621
+00:34:18,054 --> 00:34:20,290
+We went down every path
+of, if this goes wrong,
+
+622
+00:34:20,324 --> 00:34:21,458
+what do we do?
+
+623
+00:34:21,491 --> 00:34:23,293
+If that goes wrong,
+what do we do?
+
+624
+00:34:23,327 --> 00:34:28,332
+There were 10,000 tests run to
+put together that insertion.
+
+625
+00:34:32,835 --> 00:34:35,004
+- Something we've
+been preparing for
+
+626
+00:34:35,038 --> 00:34:38,542
+for four or five years,
+testing and testing,
+
+627
+00:34:38,576 --> 00:34:41,946
+awfulizing all of the possible
+things that could go wrong.
+
+628
+00:34:41,978 --> 00:34:45,581
+And this was one of those
+moments where you're either
+
+629
+00:34:45,616 --> 00:34:48,319
+in orbit or you're a
+billion dollar fly by.
+
+630
+00:34:56,793 --> 00:34:59,363
+- Things continue to go well
+in Cassini mission control.
+
+631
+00:34:59,396 --> 00:35:02,934
+We're approximately 33
+minutes from burn start.
+
+632
+00:35:02,967 --> 00:35:05,136
+There's our flight
+director, Julie Webster.
+
+633
+00:35:06,603 --> 00:35:09,573
+This is one person we hope
+to not hear from tonight.
+
+634
+00:35:09,607 --> 00:35:13,377
+This is system fault protection
+engineer, Paula Morgan.
+
+635
+00:35:13,410 --> 00:35:15,346
+And if we hear from
+fault protection,
+
+636
+00:35:15,379 --> 00:35:18,049
+that means we've had some sort
+of anomaly on the spacecraft.
+
+637
+00:35:18,082 --> 00:35:21,184
+Doug Johnson, our radio
+science and SOI communicator.
+
+638
+00:35:21,218 --> 00:35:23,821
+He's the one reporting most of
+the events we'll see tonight
+
+639
+00:35:23,854 --> 00:35:25,256
+through that Doppler signal.
+
+640
+00:35:26,390 --> 00:35:29,426
+- [Narrator] Also on
+console is Jan Berkeley.
+
+641
+00:35:29,459 --> 00:35:32,729
+She first worked at JPL
+as a college intern.
+
+642
+00:35:32,763 --> 00:35:36,133
+Now she's a key member
+of the Cassini team
+
+643
+00:35:36,166 --> 00:35:38,502
+that creates the computer
+sequence commands
+
+644
+00:35:38,535 --> 00:35:40,938
+that operate the spacecraft.
+
+645
+00:35:40,972 --> 00:35:42,706
+- We would run them,
+make sure that there were
+
+646
+00:35:42,739 --> 00:35:44,208
+no problems with that.
+
+647
+00:35:44,241 --> 00:35:46,643
+If we needed to do testing,
+we would schedule testing.
+
+648
+00:35:46,677 --> 00:35:49,212
+We were the ones that actually
+sent them to the spacecraft.
+
+649
+00:35:49,246 --> 00:35:51,048
+And then we watched
+them clock out.
+
+650
+00:35:51,081 --> 00:35:53,384
+That was the tense moment,
+was not pushing the button,
+
+651
+00:35:53,417 --> 00:35:55,987
+it was waiting for it to
+come back, that it worked.
+
+652
+00:35:57,388 --> 00:36:00,690
+And Saturn was so far away
+that it would take three hours
+
+653
+00:36:00,724 --> 00:36:02,493
+just to get there and come back.
+
+654
+00:36:03,660 --> 00:36:05,729
+- Current speed of the
+Cassini spacecraft:
+
+655
+00:36:05,762 --> 00:36:08,165
+22.2 kilometers per second,
+
+656
+00:36:08,199 --> 00:36:10,701
+which is just under
+50,000 miles an hour.
+
+657
+00:36:10,735 --> 00:36:14,104
+And increasing as Saturn's
+gravity draws us in.
+
+658
+00:36:14,138 --> 00:36:17,908
+That's Shin Huh, our
+SOI systems engineer.
+
+659
+00:36:17,942 --> 00:36:21,512
+Shin has eaten, breathed,
+slept, and lived SOI
+
+660
+00:36:21,545 --> 00:36:23,080
+for many years.
+
+661
+00:36:23,113 --> 00:36:25,549
+Tonight is his big night.
+
+662
+00:36:25,583 --> 00:36:28,018
+- All stations on
+that SOI systems.
+
+663
+00:36:28,052 --> 00:36:29,820
+Just an advisory, we're
+coming up on the time
+
+664
+00:36:29,853 --> 00:36:32,089
+for the critical sequence
+will initiate the turn
+
+665
+00:36:32,122 --> 00:36:33,624
+to the SOI burn attitude.
+
+666
+00:36:33,657 --> 00:36:38,396
+The burn command will be sent
+at 7:35:35 PM local time.
+
+667
+00:36:40,363 --> 00:36:41,865
+Flight director, SOI systems,
+
+668
+00:36:41,899 --> 00:36:44,668
+all subsystems report the
+spacecraft data is nominal
+
+669
+00:36:44,701 --> 00:36:46,637
+and ready to support SOI.
+
+670
+00:36:46,670 --> 00:36:47,905
+- [Man] Okay, I copy that.
+
+671
+00:36:59,182 --> 00:37:00,851
+SOI, comms flight director...
+
+672
+00:37:02,186 --> 00:37:03,187
+- [Todd] We're waiting.
+
+673
+00:37:03,220 --> 00:37:04,055
+- Copy telecomm
+
+674
+00:37:18,869 --> 00:37:20,571
+A JPL tradition has begun,
+
+675
+00:37:20,604 --> 00:37:22,740
+starting in the back of
+the Mission Support Area.
+
+676
+00:37:22,773 --> 00:37:26,444
+This is the consuming of
+the lucky JPL peanuts.
+
+677
+00:37:34,618 --> 00:37:36,754
+Doug Johnson just
+reported a signal,
+
+678
+00:37:36,787 --> 00:37:38,422
+we've survived the
+ring plane crossing
+
+679
+00:37:38,455 --> 00:37:40,124
+through the F and G rings.
+
+680
+00:37:40,157 --> 00:37:42,393
+(applause)
+
+681
+00:37:45,830 --> 00:37:49,133
+One hurdle down, one to go,
+with the start of the burn
+
+682
+00:37:49,166 --> 00:37:51,334
+a meer nine minutes away.
+
+683
+00:37:51,368 --> 00:37:54,171
+- [Julie] ACE flight
+director on FSL court.
+
+684
+00:37:54,204 --> 00:37:57,341
+Are you still tracking
+Canberra on B2?
+
+685
+00:37:59,076 --> 00:38:01,311
+- [Man] That's affirmative.
+
+686
+00:38:01,345 --> 00:38:03,748
+- Let's go ahead and switch
+Canberra over to B-Zero.
+
+687
+00:38:10,021 --> 00:38:11,488
+Go ahead, NAV-1.
+
+688
+00:38:11,521 --> 00:38:13,524
+- [Man] We can confirm
+that we are receiving
+
+689
+00:38:13,557 --> 00:38:14,892
+one way data from the DSN.
+
+690
+00:38:16,060 --> 00:38:18,962
+- [Julie] One way
+Doppler from DSS14?
+
+691
+00:38:18,996 --> 00:38:20,865
+- [Man] Yes, that's affirmative.
+
+692
+00:38:23,200 --> 00:38:25,702
+- Navigation can also
+confirm we're receiving
+
+693
+00:38:25,736 --> 00:38:27,204
+the Doppler data.
+
+694
+00:38:27,237 --> 00:38:29,206
+We've been able to
+verify that the turn
+
+695
+00:38:29,240 --> 00:38:31,442
+to the SY burn
+attitude is complete.
+
+696
+00:38:31,475 --> 00:38:35,612
+We're approaching two
+minutes before the SOI burn.
+
+697
+00:38:35,645 --> 00:38:38,349
+Hopes and dreams of
+thousands of scientists
+
+698
+00:38:38,382 --> 00:38:41,651
+and engineers are resting
+on the next few moments.
+
+699
+00:38:41,685 --> 00:38:43,887
+So Godspeed, Cassini Huygens.
+
+700
+00:38:43,920 --> 00:38:45,122
+May we see you in orbit.
+
+701
+00:38:46,456 --> 00:38:47,558
+- We're gonna drop in.
+
+702
+00:38:49,260 --> 00:38:51,295
+- On the Doppler display,
+what we're looking for
+
+703
+00:38:51,328 --> 00:38:54,298
+is a turning of the corner
+to start to follow that line
+
+704
+00:38:54,331 --> 00:38:56,199
+down to the lower right.
+
+705
+00:38:56,233 --> 00:38:58,469
+And that's our indication
+the burn has begun.
+
+706
+00:39:02,773 --> 00:39:03,974
+Flight, SOI comms..
+
+707
+00:39:04,007 --> 00:39:05,442
+- [Julie] Go ahead.
+
+708
+00:39:05,476 --> 00:39:07,778
+- [Man] We have a Doppler
+signature consistent
+
+709
+00:39:07,811 --> 00:39:09,713
+with engine turn on.
+
+710
+00:39:09,746 --> 00:39:12,883
+(cheers and applause)
+
+711
+00:39:21,158 --> 00:39:22,827
+- [Todd] Lots of high
+fives and celebrations
+
+712
+00:39:22,860 --> 00:39:23,828
+in mission control.
+
+713
+00:39:29,333 --> 00:39:31,602
+Congratulations all of you
+that have worked so hard
+
+714
+00:39:31,635 --> 00:39:32,470
+for this moment.
+
+715
+00:39:37,441 --> 00:39:40,644
+One minute down, about
+96 minutes to go.
+
+716
+00:39:45,483 --> 00:39:47,818
+We're continuing to follow
+the nominal predicted curve
+
+717
+00:39:47,851 --> 00:39:48,785
+on the Doppler.
+
+718
+00:39:48,819 --> 00:39:49,953
+So the fact we turned the corner
+
+719
+00:39:49,987 --> 00:39:51,188
+means the engine has started.
+
+720
+00:39:51,221 --> 00:39:52,656
+The fact that we're
+following the line
+
+721
+00:39:52,689 --> 00:39:54,291
+means we're getting the right
+thrust out of the engine.
+
+722
+00:39:54,324 --> 00:39:57,328
+So more good news for the
+Cassini Huygens spacecraft.
+
+723
+00:40:06,903 --> 00:40:07,838
+- Way to go.
+
+724
+00:40:07,871 --> 00:40:09,306
+Way to go.
+
+725
+00:40:09,340 --> 00:40:11,975
+- [Narrator] There's now
+90 minutes of waiting
+
+726
+00:40:12,008 --> 00:40:14,912
+until Cassini's engine
+is to stop firing.
+
+727
+00:40:14,945 --> 00:40:18,315
+The lull in the action
+affords a rare opportunity
+
+728
+00:40:18,348 --> 00:40:20,817
+to give members of
+Congress who are on hand
+
+729
+00:40:20,850 --> 00:40:23,721
+a very up close
+and personal tour.
+
+730
+00:40:36,934 --> 00:40:39,869
+It's a moment to witness
+history in the making,
+
+731
+00:40:39,903 --> 00:40:42,172
+and, as politicians well-know,
+
+732
+00:40:42,206 --> 00:40:45,242
+to take advantage of
+an excellent photo op.
+
+733
+00:40:49,513 --> 00:40:54,518
+- It's 7:42 PM in NASA's
+Cassini mission control.
+
+734
+00:40:55,920 --> 00:40:59,523
+The next thing we'll look
+for is an occultation
+
+735
+00:40:59,556 --> 00:41:03,560
+by the A ring around 8:05
+PM Pacific time local.
+
+736
+00:41:03,594 --> 00:41:06,163
+At that time, we'll
+see an increased noise
+
+737
+00:41:06,196 --> 00:41:07,697
+in the Doppler signal,
+
+738
+00:41:07,731 --> 00:41:11,035
+similar to the increased
+noise there at the far left
+
+739
+00:41:11,068 --> 00:41:12,402
+of the Doppler plot.
+
+740
+00:41:12,436 --> 00:41:15,272
+And our final scary
+moment of the evening
+
+741
+00:41:15,305 --> 00:41:17,842
+will be to make sure to
+get the burn shut down.
+
+742
+00:41:19,309 --> 00:41:22,480
+The history making day for
+JPL, NASA, and the world.
+
+743
+00:41:25,816 --> 00:41:27,117
+- [Man] Flight, SOI comm.
+
+744
+00:41:27,150 --> 00:41:28,685
+- Go ahead, SOI comm.
+
+745
+00:41:28,718 --> 00:41:31,855
+- [Man] We have hit
+the A ring pretty hard.
+
+746
+00:41:31,889 --> 00:41:33,623
+- All right.
+
+747
+00:41:33,656 --> 00:41:36,059
+- [Todd] More good news
+from SOI Comm there,
+
+748
+00:41:36,092 --> 00:41:39,062
+the frightening looking
+change to our Doppler data
+
+749
+00:41:39,095 --> 00:41:40,764
+is totally anticipated.
+
+750
+00:41:40,798 --> 00:41:42,966
+This proves that Saturn's A
+ring is where we think it is.
+
+751
+00:41:42,999 --> 00:41:46,971
+And the Cassini spacecraft is
+where we think it is as well.
+
+752
+00:41:48,705 --> 00:41:52,275
+- [Man] We're continuing to
+track a two to three DB signal
+
+753
+00:41:52,308 --> 00:41:55,211
+with occasional outages
+through the A ring.
+
+754
+00:41:55,245 --> 00:41:56,413
+And we expect to see
+a nice strong signal,
+
+755
+00:41:56,447 --> 00:41:58,749
+we have the main
+division coming up.
+
+756
+00:41:58,782 --> 00:42:00,251
+- [Julie] Copy
+that, sounds good.
+
+757
+00:42:02,319 --> 00:42:05,756
+(phone ringing)
+
+758
+00:42:05,789 --> 00:42:08,425
+- [Todd] As we see, we're
+approaching the B ring,
+
+759
+00:42:09,893 --> 00:42:12,196
+and we must remember tonight,
+everything happening at Saturn
+
+760
+00:42:12,229 --> 00:42:14,298
+occurred an hour and
+24 minutes earlier
+
+761
+00:42:14,331 --> 00:42:17,868
+due to that pesky speed of
+light, 186,000 miles per second,
+
+762
+00:42:17,901 --> 00:42:20,403
+our interplanetary speed
+limit, if you will.
+
+763
+00:42:20,436 --> 00:42:22,072
+- [Julie] Go ahead SOI Comm.
+
+764
+00:42:22,105 --> 00:42:24,240
+- [Man] After a brief
+peak up to 11DB,
+
+765
+00:42:24,274 --> 00:42:27,477
+we have now exited the division.
+
+766
+00:42:27,510 --> 00:42:28,478
+- Copy.
+
+767
+00:42:28,511 --> 00:42:30,848
+- [Man] What just happened?
+
+768
+00:42:30,881 --> 00:42:33,783
+- They just announced
+that we are now
+
+769
+00:42:33,817 --> 00:42:35,986
+a captured object around Saturn.
+
+770
+00:42:36,019 --> 00:42:38,255
+We are now an
+orbit... an orbiter.
+
+771
+00:42:39,523 --> 00:42:42,226
+- First in history
+around Saturn.
+
+772
+00:42:42,259 --> 00:42:43,360
+- There you go.
+
+773
+00:42:43,394 --> 00:42:45,229
+First man-made
+orbiter around Saturn.
+
+774
+00:42:46,429 --> 00:42:48,432
+Voyager, eat your heart out.
+
+775
+00:42:50,333 --> 00:42:52,369
+- [Man] SOI systems,
+this is contingency.
+
+776
+00:42:54,003 --> 00:42:56,907
+- Closest approach is just a
+little over two minutes away.
+
+777
+00:42:56,940 --> 00:42:59,676
+And given that, it's
+probably about time
+
+778
+00:42:59,710 --> 00:43:02,412
+for our Saturnian
+weather forecast.
+
+779
+00:43:02,446 --> 00:43:06,283
+Predicted temps today,
+-226 degrees Fahrenheit
+
+780
+00:43:06,316 --> 00:43:09,185
+or -143 degrees Celsius.
+
+781
+00:43:09,219 --> 00:43:12,556
+Winds of 1100 miles
+per hour or so.
+
+782
+00:43:12,589 --> 00:43:16,960
+Chance of helium rain
+inside the interior, 100%.
+
+783
+00:43:16,993 --> 00:43:19,496
+Hurricanes the
+size of the Earth.
+
+784
+00:43:19,529 --> 00:43:22,166
+Cassini would do well to
+batten down the hatches.
+
+785
+00:43:24,167 --> 00:43:27,270
+Closest approach is
+upon us with a speed
+
+786
+00:43:27,304 --> 00:43:29,706
+of almost 69,000 miles per hour.
+
+787
+00:43:29,739 --> 00:43:32,209
+And the speed HAS
+started slowing.
+
+788
+00:44:02,639 --> 00:44:03,873
+- [Man] Flight, SOI Comm.
+
+789
+00:44:03,907 --> 00:44:05,142
+- [Julie] Go ahead, SOI Comm.
+
+790
+00:44:05,175 --> 00:44:08,278
+- [Man] The Doppler
+has flattened out.
+
+791
+00:44:08,311 --> 00:44:11,448
+(cheers and applause)
+
+792
+00:44:11,481 --> 00:44:14,551
+(indistinct chatter)
+
+793
+00:44:19,355 --> 00:44:21,858
+- [Todd] Okay, we have
+burn complete here,
+
+794
+00:44:21,891 --> 00:44:23,527
+for the SOI orbit
+insertion burn.
+
+795
+00:44:29,266 --> 00:44:31,200
+Congratulations continue
+in mission control.
+
+796
+00:44:31,234 --> 00:44:33,069
+The high-fives begin in the back
+
+797
+00:44:33,102 --> 00:44:34,505
+of our mission support area.
+
+798
+00:44:44,114 --> 00:44:46,083
+I'm just hearing a
+report from radio...
+
+799
+00:44:49,019 --> 00:44:50,153
+- You did great.
+
+800
+00:44:50,187 --> 00:44:51,422
+You did great.
+- Thank you.
+
+801
+00:44:51,455 --> 00:44:52,689
+- My pleasure.
+
+802
+00:44:52,723 --> 00:44:55,926
+Here's to our lucky
+propulsion engineers.
+
+803
+00:44:56,826 --> 00:44:57,994
+Did a wonderful job tonight.
+
+804
+00:44:58,027 --> 00:45:00,229
+- Knowing that it
+survived and was there
+
+805
+00:45:00,263 --> 00:45:01,798
+and we were ready to, you know,
+
+806
+00:45:01,832 --> 00:45:04,835
+get to the meat of the science
+and get these great images.
+
+807
+00:45:04,868 --> 00:45:05,902
+It was a wonderful moment.
+
+808
+00:45:05,936 --> 00:45:07,237
+The voyage begins.
+
+809
+00:45:07,270 --> 00:45:08,772
+We made it, like, we did it.
+
+810
+00:45:12,910 --> 00:45:14,544
+- Fantastic job.
+
+811
+00:45:14,578 --> 00:45:16,580
+- Now we're gonna
+put your ECAP in.
+
+812
+00:45:16,613 --> 00:45:18,882
+(laughing)
+
+813
+00:45:20,383 --> 00:45:22,819
+- [Todd] I was just
+informed by my management,
+
+814
+00:45:22,852 --> 00:45:25,288
+she'll put my performance
+evaluation in.
+
+815
+00:45:25,322 --> 00:45:27,624
+I'm glad she waited until
+our success tonight.
+
+816
+00:45:29,693 --> 00:45:30,561
+It's alive.
+
+817
+00:45:30,594 --> 00:45:31,729
+- It's alive.
+
+818
+00:45:46,510 --> 00:45:49,113
+(gentle music)
+
+819
+00:45:52,415 --> 00:45:54,617
+- So there's this
+amazing elation
+
+820
+00:45:54,651 --> 00:45:57,654
+and then almost
+immediately a crash,
+
+821
+00:45:57,687 --> 00:46:00,890
+just because we're
+exhausted and tired,
+
+822
+00:46:00,923 --> 00:46:02,425
+but I couldn't sleep.
+
+823
+00:46:02,458 --> 00:46:04,627
+And so I stayed in the MSA,
+
+824
+00:46:04,661 --> 00:46:09,499
+and the images of the
+rings were playing back,
+
+825
+00:46:09,532 --> 00:46:14,037
+and slowly people started to
+gather around these images,
+
+826
+00:46:14,071 --> 00:46:16,706
+which no one had
+seen close up images
+
+827
+00:46:16,739 --> 00:46:18,742
+flying right over the
+tops of the rings.
+
+828
+00:46:20,376 --> 00:46:24,280
+And there were just goosebumps.
+
+829
+00:46:24,314 --> 00:46:26,183
+That's a memory I
+will never forget.
+
+830
+00:46:27,284 --> 00:46:32,022
+- This is way more
+ringlets, little pieces.
+
+831
+00:46:32,055 --> 00:46:34,057
+- [Narrator] Until now,
+the mission has been
+
+832
+00:46:34,090 --> 00:46:36,393
+mostly the province
+of engineers.
+
+833
+00:46:36,426 --> 00:46:40,130
+With these first ever closeup
+images of Saturn's rings,
+
+834
+00:46:40,163 --> 00:46:43,399
+the shift to science
+begins in earnest,
+
+835
+00:46:43,433 --> 00:46:46,969
+and there are hints of
+major discoveries ahead
+
+836
+00:46:47,003 --> 00:46:48,739
+from what already can be seen.
+
+837
+00:46:49,906 --> 00:46:52,676
+- I don't think you have
+to be a ring scientist
+
+838
+00:46:52,709 --> 00:46:55,245
+to imagine what last
+night was for us.
+
+839
+00:46:55,278 --> 00:46:57,981
+It was beyond
+description really.
+
+840
+00:46:58,014 --> 00:46:59,549
+It was mind blowing.
+
+841
+00:46:59,583 --> 00:47:02,119
+It was every adjective
+you could think of.
+
+842
+00:47:02,152 --> 00:47:05,721
+I'm surprised at how
+surprised I am at the beauty
+
+843
+00:47:05,755 --> 00:47:07,223
+and the clarity of these images.
+
+844
+00:47:07,256 --> 00:47:09,425
+They are shocking to me.
+
+845
+00:47:09,459 --> 00:47:12,929
+The spacecraft allows us
+a very steady platform.
+
+846
+00:47:12,962 --> 00:47:16,833
+This machine, you turn it, you
+point it, and it stays there.
+
+847
+00:47:16,866 --> 00:47:19,102
+It's like a tripod in space.
+
+848
+00:47:19,135 --> 00:47:22,039
+Anyway, I think ring scientists
+are gonna have a field day.
+
+849
+00:47:22,072 --> 00:47:23,473
+So thank you.
+
+850
+00:47:26,476 --> 00:47:27,544
+Wow.
+
+851
+00:47:27,577 --> 00:47:29,813
+(applause)
+
+852
+00:47:38,988 --> 00:47:41,124
+- [Narrator] Cassini's
+arrival coincided
+
+853
+00:47:41,157 --> 00:47:44,761
+with a time when the planet
+was well lit by sunlight,
+
+854
+00:47:44,794 --> 00:47:48,198
+providing extraordinary
+views of the rings.
+
+855
+00:47:49,632 --> 00:47:53,704
+Saturn, plus the rings, span
+about a quarter million miles,
+
+856
+00:47:53,737 --> 00:47:57,107
+and they would fit in between
+the Earth and its moon.
+
+857
+00:47:58,307 --> 00:48:00,777
+And yet for all of
+its wide expanse,
+
+858
+00:48:00,811 --> 00:48:03,880
+the rings themselves
+are paper thin,
+
+859
+00:48:03,913 --> 00:48:07,150
+only about 10 feet thick.
+
+860
+00:48:08,317 --> 00:48:10,720
+If you could scoop up
+all the ring particles,
+
+861
+00:48:10,753 --> 00:48:13,623
+there would be less mass
+than one of Saturn's
+
+862
+00:48:13,656 --> 00:48:15,225
+small moons named Mimas.
+
+863
+00:48:18,928 --> 00:48:20,230
+- [Narrator] From a distance,
+
+864
+00:48:20,263 --> 00:48:23,099
+the rings cast off
+a sense of serenity,
+
+865
+00:48:23,133 --> 00:48:26,937
+but they are as complex and
+chaotic as they are beautiful.
+
+866
+00:48:28,138 --> 00:48:29,872
+For they are made up
+of countless numbers
+
+867
+00:48:29,906 --> 00:48:33,377
+of disorderly objects of
+different sizes and shapes.
+
+868
+00:48:36,580 --> 00:48:40,350
+This is a simulated image
+based on radar observations,
+
+869
+00:48:40,383 --> 00:48:43,553
+showing particles sizes
+found in different regions
+
+870
+00:48:43,586 --> 00:48:44,921
+of the rings.
+
+871
+00:48:44,955 --> 00:48:47,223
+The color purple
+represents where there is
+
+872
+00:48:47,256 --> 00:48:50,460
+a preponderance of objects
+smaller than two inches.
+
+873
+00:48:50,493 --> 00:48:54,297
+Particles in green are
+about an inch in size.
+
+874
+00:48:54,331 --> 00:48:56,833
+The blueish bands
+are still smaller.
+
+875
+00:48:58,301 --> 00:49:01,738
+The white bands are dense
+regions that radio signals
+
+876
+00:49:01,771 --> 00:49:03,273
+were unable to penetrate.
+
+877
+00:49:05,608 --> 00:49:08,812
+This false color image
+highlights what can be seen
+
+878
+00:49:08,845 --> 00:49:10,013
+in the ultraviolet.
+
+879
+00:49:11,247 --> 00:49:13,951
+The turquoise colors
+represent water ice.
+
+880
+00:49:13,984 --> 00:49:17,487
+The red colors are a
+different kind of particle.
+
+881
+00:49:17,520 --> 00:49:19,623
+Uncertain as to
+what it might be,
+
+882
+00:49:19,656 --> 00:49:22,592
+the scientists decided
+to name it dirt.
+
+883
+00:49:23,793 --> 00:49:25,796
+- Cassini was also
+able to measure
+
+884
+00:49:25,829 --> 00:49:28,265
+the temperature of
+the ring particles,
+
+885
+00:49:28,298 --> 00:49:31,768
+and the rings that had
+the most dirt or pollution
+
+886
+00:49:31,801 --> 00:49:36,573
+were slightly warmer than
+the bright icy rings.
+
+887
+00:49:36,606 --> 00:49:38,508
+- [Narrator] And,
+despite being made of
+
+888
+00:49:38,541 --> 00:49:40,710
+mostly cosmic dust and ice,
+
+889
+00:49:40,744 --> 00:49:45,048
+the rings contained some
+structures as large as a house.
+
+890
+00:49:45,081 --> 00:49:48,585
+And as scientists discovered
+to their astonishment,
+
+891
+00:49:48,618 --> 00:49:51,355
+even transitory mountains.
+
+892
+00:49:51,388 --> 00:49:54,491
+- There is a unique moment
+in the Cassini mission
+
+893
+00:49:54,524 --> 00:49:56,960
+where the sun was
+edge onto the rings,
+
+894
+00:49:56,993 --> 00:49:59,762
+and that allowed us to see
+anything that would stick up
+
+895
+00:49:59,795 --> 00:50:03,934
+above or below those
+10 feet thick rings.
+
+896
+00:50:03,967 --> 00:50:07,971
+Then lo and behold, we found
+what looked like mountains
+
+897
+00:50:08,004 --> 00:50:11,307
+casting huge shadows
+on the rings.
+
+898
+00:50:11,341 --> 00:50:13,643
+And it turns out that
+the rings of Saturn
+
+899
+00:50:13,676 --> 00:50:15,679
+are not like just
+individual particles,
+
+900
+00:50:15,712 --> 00:50:18,948
+but a lot of these
+particles stick together
+
+901
+00:50:18,982 --> 00:50:22,585
+and grow into larger
+and larger particles.
+
+902
+00:50:22,618 --> 00:50:25,421
+But these clumps of
+particles are ephemeral.
+
+903
+00:50:25,455 --> 00:50:27,591
+They don't last for a long time.
+
+904
+00:50:27,624 --> 00:50:32,396
+They can be broken up and then
+reformed in to new particles.
+
+905
+00:50:37,567 --> 00:50:39,936
+- [Narrator] Saturn's
+moons and smaller moonlets
+
+906
+00:50:39,969 --> 00:50:41,471
+also influenced the rings.
+
+907
+00:50:43,006 --> 00:50:47,476
+Even orbiting rubble
+piles hold a kind of sway.
+
+908
+00:50:47,510 --> 00:50:50,346
+Altogether, they help
+shape the boundaries
+
+909
+00:50:50,380 --> 00:50:51,915
+of Saturn's rings,
+
+910
+00:50:51,948 --> 00:50:54,550
+herding in particles
+that might otherwise
+
+911
+00:50:54,584 --> 00:50:56,753
+rain down in a
+torrent on the planet
+
+912
+00:50:56,786 --> 00:50:59,389
+or escape into deep space.
+
+913
+00:51:01,224 --> 00:51:04,460
+Meanwhile, particles from
+some of Saturn's moons
+
+914
+00:51:04,493 --> 00:51:06,529
+are constantly shedding off,
+
+915
+00:51:06,562 --> 00:51:11,535
+helping to preserve existing
+rings or creating new ones.
+
+916
+00:51:17,007 --> 00:51:20,276
+Among the unexpected
+discoveries within the rings
+
+917
+00:51:20,309 --> 00:51:22,879
+were these propeller
+like objects.
+
+918
+00:51:24,314 --> 00:51:28,184
+- Propellers are these largest
+clumps of ring particles,
+
+919
+00:51:28,218 --> 00:51:30,286
+and they get big
+enough so their gravity
+
+920
+00:51:30,320 --> 00:51:33,890
+wants to push apart the
+rings and open up a gap.
+
+921
+00:51:33,923 --> 00:51:35,358
+And then there's not
+quite enough gravity
+
+922
+00:51:35,391 --> 00:51:36,593
+to open it up all the way.
+
+923
+00:51:36,626 --> 00:51:38,694
+And so you see these
+little propellers
+
+924
+00:51:38,728 --> 00:51:40,096
+sprinkled throughout the rings,
+
+925
+00:51:40,130 --> 00:51:42,232
+especially in Saturn's A ring.
+
+926
+00:51:44,467 --> 00:51:47,170
+- [Narrator] A mystery
+dating back to Voyager
+
+927
+00:51:47,203 --> 00:51:51,240
+was the appearing and
+disappearing of ghostly spokes.
+
+928
+00:51:51,274 --> 00:51:54,144
+Cassini determined their cause.
+
+929
+00:51:54,177 --> 00:51:57,347
+Electrostatic charges that
+lift up dust particles,
+
+930
+00:51:57,380 --> 00:52:00,383
+where they levitate for
+a time above the rings.
+
+931
+00:52:04,054 --> 00:52:06,889
+There remain two
+fundamental questions
+
+932
+00:52:06,922 --> 00:52:09,225
+lacking definitive answers.
+
+933
+00:52:09,259 --> 00:52:12,129
+The first is knowing how
+the rings came to be.
+
+934
+00:52:13,496 --> 00:52:17,000
+- So many things about the
+rings are unexplained even now.
+
+935
+00:52:18,168 --> 00:52:21,170
+There are a lot of ideas
+for how Saturn's rings
+
+936
+00:52:21,204 --> 00:52:22,839
+initially formed.
+
+937
+00:52:22,872 --> 00:52:25,975
+One of those is that
+perhaps the rings formed
+
+938
+00:52:26,009 --> 00:52:28,645
+from the material
+that was left over
+
+939
+00:52:28,678 --> 00:52:30,213
+from when Saturn formed.
+
+940
+00:52:30,246 --> 00:52:33,449
+So if that's true,
+then the rings are old,
+
+941
+00:52:33,482 --> 00:52:35,252
+as old as Saturn itself.
+
+942
+00:52:36,686 --> 00:52:40,256
+Other ideas: say perhaps
+an object may be a comet,
+
+943
+00:52:40,289 --> 00:52:43,059
+or a meteor, came in
+too close to Saturn,
+
+944
+00:52:43,093 --> 00:52:46,028
+was torn apart by
+Saturn's gravity,
+
+945
+00:52:46,061 --> 00:52:48,531
+and then created the rings.
+
+946
+00:52:48,565 --> 00:52:51,801
+Or perhaps a moon wandered
+too close to Saturn
+
+947
+00:52:51,834 --> 00:52:53,536
+and was torn apart.
+
+948
+00:52:53,569 --> 00:52:57,006
+And so then the rains could
+be as young as maybe only 10
+
+949
+00:52:57,040 --> 00:52:59,276
+or a hundred million years old.
+
+950
+00:53:01,544 --> 00:53:04,947
+- [Narrator] Along
+with determining the
+origin of the rings,
+
+951
+00:53:04,980 --> 00:53:08,785
+understanding their fate is
+also an unanswered question.
+
+952
+00:53:09,919 --> 00:53:12,488
+But the adage that
+nothing lasts forever
+
+953
+00:53:12,521 --> 00:53:14,891
+likely applies even to them.
+
+954
+00:53:16,259 --> 00:53:20,129
+- As micro meteoroids
+continue to bombard the rings,
+
+955
+00:53:20,163 --> 00:53:23,399
+and some of the innermost
+particles fall into Saturn
+
+956
+00:53:23,433 --> 00:53:25,568
+and actually water the planet,
+
+957
+00:53:25,602 --> 00:53:28,671
+the rings are getting lighter
+and lighter with time.
+
+958
+00:53:28,705 --> 00:53:31,774
+And so perhaps in another
+few hundred million years,
+
+959
+00:53:31,808 --> 00:53:34,144
+Saturn's rings as we
+know it might be gone.
+
+960
+00:53:34,177 --> 00:53:36,646
+Maybe we'll be left
+with narrow rings
+
+961
+00:53:36,679 --> 00:53:38,949
+like we see in
+the Uranus system.
+
+962
+00:53:41,084 --> 00:53:43,352
+- [Narrator] And one
+day long from now,
+
+963
+00:53:43,386 --> 00:53:47,590
+Saturn's glorious rings
+might disappear altogether.
+
+964
+00:53:47,623 --> 00:53:50,727
+One more reason to
+enjoy them while we can.
+
+965
+00:53:58,401 --> 00:54:01,337
+Next time on "JPL
+and the Space Age",
+
+966
+00:54:01,370 --> 00:54:05,141
+Part Two of "Triumph
+at Saturn"...
+
+967
+00:54:05,175 --> 00:54:09,913
+With Cassini safely in orbit,
+science takes center stage,
+
+968
+00:54:11,381 --> 00:54:14,651
+beginning with the dramatic
+descent of the Huygens Probe
+
+969
+00:54:14,684 --> 00:54:17,887
+to the surface of
+Saturn's moon Titan.
+
+970
+00:54:19,054 --> 00:54:20,457
+- [Man] We knew Titan
+was a tough target,
+
+971
+00:54:20,490 --> 00:54:23,025
+was going to hold
+its secrets tightly.
+
+972
+00:54:23,058 --> 00:54:25,829
+And so we designed
+this mission to hit it
+
+973
+00:54:25,862 --> 00:54:27,797
+with everything we've got.
+
+974
+00:54:27,830 --> 00:54:29,565
+- [Narrator] In the
+years that follow,
+
+975
+00:54:29,599 --> 00:54:33,269
+one unexpected discovery
+after another will be made,
+
+976
+00:54:33,302 --> 00:54:35,504
+earning this
+international mission
+
+977
+00:54:35,538 --> 00:54:37,874
+accolades from around the world.
+
+978
+00:54:39,008 --> 00:54:41,310
+- Science is about what is,
+
+979
+00:54:41,344 --> 00:54:44,847
+and engineering is
+about what can BE.
+
+980
+00:54:44,880 --> 00:54:48,050
+The Cassini-Huygens
+program has demonstrated
+
+981
+00:54:48,084 --> 00:54:49,585
+the best of both.
+
+982
+00:54:49,618 --> 00:54:51,888
+The number of your
+new discoveries
+
+983
+00:54:51,921 --> 00:54:54,190
+is nothing short of amazing.
+
+984
+00:54:54,223 --> 00:54:56,525
+- [Woman] I would say
+Cassini's discoveries
+
+985
+00:54:56,559 --> 00:55:01,197
+fundamentally altered the way
+we look at our solar system.
+
+986
+00:55:01,231 --> 00:55:04,200
+Around one planet,
+we find two moons
+
+987
+00:55:04,234 --> 00:55:07,436
+that could potentially
+be habitable,
+
+988
+00:55:07,470 --> 00:55:11,374
+have the key ingredients
+to support life.
+
+989
+00:55:11,408 --> 00:55:14,577
+- I have more than a
+passing interest in Saturn
+
+990
+00:55:14,610 --> 00:55:16,046
+and its family of moons.
+
+991
+00:55:16,079 --> 00:55:20,883
+When Cassini was launched,
+we knew only 18 moons.
+
+992
+00:55:20,916 --> 00:55:24,620
+I understand there's
+now 60 and counting.
+
+993
+00:55:24,654 --> 00:55:27,523
+I can't resist the
+temptation to say,
+
+994
+00:55:27,556 --> 00:55:29,426
+my God, it's full of moons.
+
+995
+00:55:30,826 --> 00:55:35,465
+- [Narrator] "Triumph at
+Saturn" Part Two, next time.
+
+996
+00:55:45,709 --> 00:55:48,378
+(gentle music)
+
