@@ -236,7 +236,7 @@ Dialogue: 0,0:10:58.55,0:11:02.06,new,,0,0,0,,{\blur4}有时也表达他们的�
 Dialogue: 0,0:11:03.56,0:11:06.86,new,,0,0,0,,{\blur4}我们是一个较小的团队，\N{\fs13}- Okay, this is one of the smaller teams,
 Dialogue: 0,0:11:06.89,0:11:09.80,new,,0,0,0,,{\blur4}管理其中一个较小的仪器（磁强计，Magnetometer），\N{\fs13}and I suppose one of the smaller instruments,
 Dialogue: 0,0:11:09.83,0:11:13.57,new,,0,0,0,,{\blur4}但它能派上大用场\N{\fs13}although perhaps not as small as the project might like.
-Dialogue: 0,0:11:13.60,0:11:17.64,new,,0,0,0,,{\blur4}因此我想说的是\N{\fs13}I'm afraid I have to say that we have to have
+Dialogue: 0,0:11:13.60,0:11:17.64,new,,0,0,0,,{\blur4}所以我想说的是\N{\fs13}I'm afraid I have to say that we have to have
 Dialogue: 0,0:11:17.67,0:11:19.97,new,,0,0,0,,{\blur4}我们必须获得在行星环境下\N{\fs13}an instrument that performs best
 Dialogue: 0,0:11:20.01,0:11:22.71,new,,0,0,0,,{\blur4}性能最好的仪器\N{\fs13}within the planetary environment.
 Dialogue: 0,0:11:22.74,0:11:25.45,new,,0,0,0,,{\blur4}所以这件事并不像有些人\N{\fs13}So life is not as simple as perhaps
@@ -345,7 +345,7 @@ Dialogue: 0,0:17:12.36,0:17:14.96,new,,0,0,0,,{\blur4}为了不减少科学仪�
 Dialogue: 0,0:17:15.00,0:17:18.53,new,,0,0,0,,{\blur4}飞船的尺寸被缩小，\N{\fs13}the spacecraft itself was scaled back by eliminating
 Dialogue: 0,0:17:18.56,0:17:20.17,new,,0,0,0,,{\blur4}取消了扫描平台，\N{\fs13}the scan platform,
 Dialogue: 0,0:17:20.20,0:17:23.47,new,,0,0,0,,{\blur4}这个平台是一种转盘\N{\fs13}a kind of turntable required by some instruments
-Dialogue: 0,0:17:23.50,0:17:25.07,new,,0,0,0,,{\blur4}用于某些需要移动的仪器\N{\fs13}needing motion.
+Dialogue: 0,0:17:23.50,0:17:25.07,new,,0,0,0,,{\blur4}搭载某些需要移动的仪器\N{\fs13}needing motion.
 Dialogue: 0,0:17:25.10,0:17:27.61,new,,0,0,0,,{\blur4}没有了平台，\N{\fs13}Without the platform, the entire spacecraft
 Dialogue: 0,0:17:27.64,0:17:30.24,new,,0,0,0,,{\blur4}探测器需要通过整体旋转来瞄准目标，\N{\fs13}will have to rotate to aim at targets,
 Dialogue: 0,0:17:30.28,0:17:33.85,new,,0,0,0,,{\blur4}这减少了观测时间\N{\fs13}resulting also in less observation time.
@@ -489,7 +489,7 @@ Dialogue: 0,0:25:27.72,0:25:30.72,new,,0,0,0,,{\blur4}这远远地超前于计�
 Dialogue: 0,0:25:32.33,0:25:33.89,new,,0,0,0,,{\blur4}这里有幅图片\N{\fs13}- The cartoon.
 Dialogue: 0,0:25:33.93,0:25:35.26,new,,0,0,0,,{\blur4}你得来看看它\N{\fs13}You gotta see the cartoon.
 Dialogue: 0,0:25:35.30,0:25:36.76,new,,0,0,0,,{\blur4}就能知道来龙去脉\N{\fs13}You gotta see the whole thing.
-Dialogue: 0,0:25:36.80,0:25:40.33,new,,0,0,0,,{\blur4}因此，闲置的宇宙飞船是魔鬼的游乐场\N{\fs13}So the idle spacecraft is the devil's playground.
+Dialogue: 0,0:25:36.80,0:25:40.33,new,,0,0,0,,{\blur4}“闲置的宇宙飞船是魔鬼的游乐场”\N{\fs13}So the idle spacecraft is the devil's playground.
 Dialogue: 0,0:25:41.37,0:25:42.60,new,,0,0,0,,{\blur4}起初的三年中，\N{\fs13}For the first three years,
 Dialogue: 0,0:25:42.64,0:25:44.60,new,,0,0,0,,{\blur4}我们本无须做任何事\N{\fs13}we weren't supposed to do anything.
 Dialogue: 0,0:25:44.64,0:25:46.91,new,,0,0,0,,{\blur4}就当是飞了一块石头出去\N{\fs13}We were supposed to fly a rock.
@@ -523,7 +523,7 @@ Dialogue: 0,0:27:16.63,0:27:18.63,new,,0,0,0,,{\blur4}距今已经过去几个�
 Dialogue: 0,0:27:20.03,0:27:24.00,new,,0,0,0,,{\blur4}卡西尼号还与久负盛名的伽利略号宇宙飞船合作\N{\fs13}Cassini also teamed up with the venerable Galileo spacecraft
 Dialogue: 0,0:27:24.04,0:27:27.17,new,,0,0,0,,{\blur4}联合测量木星的磁层，\N{\fs13}to jointly measure Jupiter's magnetosphere,
 Dialogue: 0,0:27:27.21,0:27:29.78,new,,0,0,0,,{\blur4}带电粒子的气泡被约束在\N{\fs13}a bubble of charged particles trapped*
-Dialogue: 0,0:27:29.81,0:27:32.51,new,,0,0,0,,{\blur4}在行星的磁场中\N{\fs13}within the planet's magnetic field.
+Dialogue: 0,0:27:29.81,0:27:32.51,new,,0,0,0,,{\blur4}行星的磁场中\N{\fs13}within the planet's magnetic field.
 Dialogue: 0,0:27:33.65,0:27:37.68,new,,0,0,0,,{\blur4}在最近的一次飞抵中，卡西尼号拍摄了这张照片\N{\fs13}At closest approach, Cassini took this image.
 Dialogue: 0,0:27:37.72,0:27:42.26,new,,0,0,0,,{\blur4}那时，我们看到了木星最详细的景象\N{\fs13}At that time, the most detailed view of Jupiter ever seen.
 Dialogue: 0,0:27:55.03,0:27:58.04,new,,0,0,0,,{\blur4}和木星的相遇是一次全面的彩排\N{\fs13}The Jupiter encounter served as a full dress rehearsal
@@ -568,7 +568,7 @@ Dialogue: 0,0:30:04.90,0:30:06.57,new,,0,0,0,,{\blur4}现在他还主管 JPL\N{\
 Dialogue: 0,0:30:06.60,0:30:10.50,new,,0,0,0,,{\blur4}卡西尼号可能是美国承办的\N{\fs13}- Cassini is probably one of the most exciting missions
 Dialogue: 0,0:30:10.54,0:30:15.54,new,,0,0,0,,{\blur4}最令人兴奋的任务之一，它值得更多的赞扬\N{\fs13}ever undertaken by the US and it deserves more credit.
 Dialogue: 0,0:30:16.74,0:30:19.14,new,,0,0,0,,{\blur4}所以当我们进入轨道插入阶段，\N{\fs13}So when we come to the orbit insertion,
-Dialogue: 0,0:30:19.18,0:30:21.65,new,,0,0,0,,{\blur4}经过之前的拥护，游说，\N{\fs13}after advocating for it, selling it,
+Dialogue: 0,0:30:19.18,0:30:21.65,new,,0,0,0,,{\blur4}经过之前的提议，游说，\N{\fs13}after advocating for it, selling it,
 Dialogue: 0,0:30:21.68,0:30:24.68,new,,0,0,0,,{\blur4}建造，飞行阶段\N{\fs13}building it and flying it,
 Dialogue: 0,0:30:24.72,0:30:27.62,new,,0,0,0,,{\blur4}现在该打起精神了\N{\fs13}it was a really very sobering moment.
 Dialogue: 0,0:30:29.22,0:30:33.83,new,,0,0,0,,{\blur4}引擎最好能点火，否则我们会以飞掠告终\N{\fs13}The engine better fire, otherwise we'll end with a fly by.
@@ -608,7 +608,7 @@ Dialogue: 0,0:32:26.94,0:32:28.87,new,,0,0,0,,{\blur4}撞上飞船的关键位�
 Dialogue: 0,0:32:28.91,0:32:30.68,new,,0,0,0,,{\blur4}大概任务就可以宣告结束了\N{\fs13}to perhaps have ended the mission.
 Dialogue: 0,0:32:30.71,0:32:33.65,new,,0,0,0,,{\blur4}所以对我来说，最惊险的\N{\fs13}So for me, the most, you know, breathtaking,
 Dialogue: 0,0:32:33.68,0:32:35.51,new,,0,0,0,,{\blur4}心跳停止的时刻\N{\fs13}the heart stopping time, was really
-Dialogue: 0,0:32:35.55,0:32:37.25,new,,0,0,0,,{\blur4}就是穿过土星环的时候\N{\fs13}crossing through the ring plane.
+Dialogue: 0,0:32:35.55,0:32:37.25,new,,0,0,0,,{\blur4}就是穿过土星环平面的时候\N{\fs13}crossing through the ring plane.
 Dialogue: 0,0:32:39.08,0:32:40.85,new,,0,0,0,,{\blur4}为了降低风险，\N{\fs13}- [Narrator] To reduce the risk,
 Dialogue: 0,0:32:40.89,0:32:44.16,new,,0,0,0,,{\blur4}卡西尼号将用它的高增益天线指向前方\N{\fs13}Cassini will fly through the gaps with its high gain antenna
 Dialogue: 0,0:32:44.19,0:32:47.49,new,,0,0,0,,{\blur4}充当穿越缝隙时的盾牌 \N{\fs13}facing forward to act as a shield.
